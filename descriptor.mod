@@ -4,5 +4,5 @@ tags={
 	"Total Conversions"
 	"Historical"
 }
-name="Mesoamerican Project"
+name="mesoamerican-project"
 supported_version="2.0.4"
