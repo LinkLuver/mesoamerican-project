@@ -10,35 +10,56 @@
 	secondary_navy = octere
 	flank_navy = liburnian
 	
-	levy_template = levy_southern_indian
+	levy_template = levy_mayan
 
 	male_names = {
-		 Chak
+	     Chak Yikʼin Chan Pacal Yopaat Ahk Kʼawiil Bahlam Ichʼaak Janaab Itzamnaaj Tatbʼu Yoʼnal Muwaan Tuun Uaxaclajuun Kʼan Nuun Yaxun Bolon Ajaw Bʼalam Kʼuhul Yax Waxaklajuun Ak Sihyaj Tutum Kʼakʼ Ukʼab Teʼ Toob'il Ekʼ Hix Bahlam_Tzam Winik Tzʼayaj Haʼ_Kʼin Uxman Chanal Mat Tum_Yohl Aj Tzʼikin Wak Ox Nuun_Ujol Tahil Kinich Boluʼ Mih_Toh Tutuum Aj_Hoʼ Joy Tiʼ Tzih Tzayal Ajun Akul Aktaʼ Tzi Ixkun
 	}
+
 	female_names = {
-		 Chak2
+	     Lady_Xoc Lady_Shield_Skull Lady_Pacal Lady_Green_Rabbit Lady_Star_Shell Lady_Eveningstar Lady_Muyal_Chan_Kʼawiil Yohl_Ikʼnal Wak_Chanil Lady_Unen_Bahlam Lady_Itzan Lady_Buluʼ Lady_Kʼal Lady_Chuwen Lady_Hand Lady_Bird_Headdress Lady_White_Bird Lady_Mut_Bahlam Lady_Chab-Ahab Ixchel Ixtab Lady_Batzʼ_Ekʼ Lady_Tzutz_Nik Lady_Great_Skull Lady_Kʼawill_Chan Lady_Sak_Bʼiyaan Lady_Akna Lady_Kan_Ik Lady_Kinuw Lady_Tum_Bahlam Ajaw_Bʼot
 	}
+
+
 	family = {
-		Vanavaramba.Vanavaramba.Vanavaramba.Vanavaramban
-		Irumporai.Irumporai.Irumporai.Irumporan
-		Pandya.Pandya.Pandya.Pandyan
-		Chola.Chola.Chola.Cholan
-		Pallava.Pallava.Pallava.Pallavan 
-		Satavahana.Satavahana.Satavahana.Satavahanan 
-		Chutu.Chutu.Chutu.Chutan 
-		Vijaya.Vijaya.Vijaya.Vijayan	
-		Ikshvaku.Ikshvaku.Ikshvaku.Ikshvakan 
-		Poramba.Poramba.Poramba.Poramban 
-		Damela.Damela.Damela.Damelan 
-		Moriya.Moriya.Moriya.Moriyan 
-		Upatissa.Upatissa.Upatissa.Upatissan 
-		Silakala.Silakala.Silakala.Silakalan 
-		Mahanaga.Mahanaga.Mahanaga.Mahanagan 
-		Pithiya.Pithiya.Pithiya.Pithiyan 
-		Vasabha.Vasabha.Vasabha.Vasabhan 
-		Somavamsa.Somavamsa.Somavamsa.Somavamsan 
-		Udaya.Udaya.Udaya.Udayan 
-		Mittasena.Mittasena.Mittasena.Mittasenian
+		Aguateca.Aguateca.Aguateci.Aguatecan
+		Bonampak.Bonampak.Bonampaki.Bonampakan
+		Calakmul.Calakmul.Calakmuli.Calakmulan
+		Cancuén.Cancuén.Cancuéni.Cancuénan
+		Caracol.Caracol.Caracoli.Caracolan
+		El_Cayo.El_Cayo.El_Cayi.El_Cayan
+		Chinikiha.Chinikiha.Chinikihi.Chinikihan
+		Cobá.Cobá.Cobái.Cobán
+		Copán.Copán.Copáni.Copánan
+		La_Corona.La_Corona.La_Coroni.La_Coronan
+		Dos_Pilas.Dos_Pilas.Dos_Pili.Dos_Pilan
+		Ekʼ_Balam.Ekʼ_Balam.Ekʼ_Balami.Ekʼ_Balaman
+		Edzná.Edzná.Edznái.Edznán
+		Holmul.Holmul.Holmuli.Holmulan
+		Ixkun.Ixkun.Ixkuni.Ixkunan
+		Ixtutz.Ixtutz.Ixtutzi.Ixtutzan
+		Lacanha.Lacanha.Lacanhai.Lacanhan
+		Machaquila.Machaquila.Machaquili.Machaquilan
+		Motul_de_San_José.Motul_de_San_José.Motul_de_San_Joséi.Motul_de_San_Joséan
+		Naranjo.Naranjo.Naranji.Naranjan
+		Palenque.Palenque.Palenqui.Palenquan
+		El_Palma.El_Palma.El_Palmi.El_Palman
+		El_Perú.El_Perú.El_Perúi.El_Perúan
+		Piedras_Negras.Piedras_Negras.Piedras_Negri.Piedras_Negran
+		Pomona.Pomona.Pomonai.Pomonan
+		Pusilha.Pusilha.Pusilhi.Pusilhan
+		Quiriguá.Quiriguá.Quiriguái.Quiriguán
+		Sak_Tzʼi.Sak_Tzʼi.Sak_Tzʼii.Sak_Tzʼian
+		Seibal.Seibal.Seibali.Seibalan
+		Tamarindito.Tamarindito.Tamarinditi.Tamarinditan
+		Tikal.Tikal.Tikali.Tikalan
+		Toniná.Toniná.Toninái.Toninán
+		Ucanal.Ucanal.Ucanali.Ucanalan
+		Xultun.Xultun.Xultuni.Xultunan
+		Yaxchilán.Yaxchilán.Yaxchiláni.Yaxchilánan
+		Yaxha.Yaxha.Yaxhai.Yaxhaan
+		Yoʼokop.Yoʼokop.Yoʼokopi.Yoʼokopan
+		Yootz.Yootz.Yootzi.Yootzan
 	}
 	
 	culture = {
