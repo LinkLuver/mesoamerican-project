@@ -1,2 +1,307 @@
-﻿From;To;Type;Through;x;y;x;y;
--1;-1;;-1;-1
+From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
+2469;2467;sea;9967;192;674;199;671;Nikolski-Unalaska
+2467;2468;sea;9967;235;711;244;722;Unalaska-Akutan
+2606;2605;river_large;10417;237;1344;245;1348;Alakanuk-Emmonak
+2607;4820;river_large;10441;304;1281;313;1280;St. Mary's-Upper Kalskag
+3923;3922;river_large;10441;327;1338;334;1342;Grayling-Shageluk
+7202;7201;river_large;10450;346;1470;354;1475;Nulato-Kaltag
+8853;8854;river_large;10482;394;1514;404;1509;Koyukuk-Ruby
+8854;8163;river_large;10393;492;1559;498;1565;Ruby-Minto
+8852;8163;river_large;10517;497;1579;505;1572;Tanana-Minto
+5175;3903;river_large;10249;584;1703;589;1696;Venetie-Fort Yukon
+8164;8161;river_large;10393;592;1562;593;1570;Nenana-Fairbanks
+5173;5176;river_large;10539;606;1719;616;1716;Alexanders Village-Chalkyitsik
+3903;5176;river_large;10384;612;1706;619;1712;Fort Yukon-Chalkyitsik
+7819;7820;river_large;10274;653;1772;662;1770;Burnt Paw-Canyon Village
+1797;1796;sea;9638;691;1245;699;1257;Chenega-Cordova
+5971;5972;river_large;10386;730;1505;734;1512;Tok-Chicken
+2375;2374;river_large;10547;741;1844;743;1854;Johnson Creek-Lapierre House
+9198;9197;river_large;10322;765;1990;772;1990;Kugmallit-Inuvik
+8881;8882;river_large;10474;789;1586;797;1586;Dawson City-Sulphur
+8881;8879;river_large;10474;793;1595;800;1596;Dawson City-Rock Creek
+7331;7333;river_large;10322;808;1901;817;1912;Fort McPherson-Seven Islands Crossing
+6764;6765;river_large;10390;915;1512;922;1519;Yukon Crossing-Pelly Crossing
+4155;4156;river_large;10286;966;1894;973;1898;Little Chicago-Fort Good Hope
+2993;2992;sea;9801;1045;1260;1052;1249;Gustavus-Hoonah
+2991;7328;sea;9756;1081;1199;1086;1199;Tenakee Springs-Sitka
+8496;8497;river_large;10477;1083;1867;1090;1867;Norman Wells-Tulita
+42;44;sea;9801;1088;1270;1092;1265;Juneau-Cube Cove
+7128;7126;river_large;10347;1117;1911;1124;1910;Deline-Sahyoue
+4320;2189;sea;9754;1193;1187;1197;1180;Petersburg-Wrangell
+2189;2190;sea;9754;1229;1160;1241;1152;Wrangell-Meyers Chuck
+2190;22;sea;9754;1252;1176;1258;1174;Meyers Chuck-Ketchikan
+2252;2251;river_large;10320;1285;1761;1291;1754;Wrigley-Fort Simpson
+5762;5763;sea;9969;1373;1069;1377;1074;Porcher Island-Prince Rupert
+7499;7500;river_large;10361;1417;1808;1418;1817;Kakisa-no_name_102_141_95
+2917;2916;sea;10102;1473;1024;1476;1030;Klemtu-Martin Valley
+2917;2918;sea;10102;1475;1019;1482;1019;Klemtu-Waglisla
+3536;3534;sea;9690;1497;3019;1499;3018;Sikosak-Iglulik
+2918;2916;sea;10102;1503;1019;1506;1023;Waglisla-Martin Valley
+2918;4465;sea;10102;1506;1010;1510;1004;Waglisla-Kimsquit
+7929;7931;river_large;10515;1518;1911;1522;1917;Fort Resolution-Rocher River
+4465;4466;sea;10102;1518;1007;1524;1002;Kimsquit-Namu
+115;557;river_large;10405;1561;1445;1567;1436;Fort St. John-Willow Valley
+9611;9610;river_large;10338;1577;1678;1585;1678;High Level-Fort Vermilion
+9275;9274;sea;9743;1621;965;1627;964;Hanson Island-Read Island
+8140;8138;river_large;10449;1630;1778;1638;1782;Jean D'Or-Sweetgrass Landing
+9012;9014;river_large;10279;1647;1506;1654;1505;Fairview-Eaglesham
+9011;4410;river_large;10279;1650;1534;1656;1540;Peace River-St. Isidore
+8256;8255;river_large;10521;1662;1849;1671;1856;Carlson Landing-Fort Chipewyan
+8256;8138;river_large;10449;1666;1843;1673;1842;Carlson Landing-Sweetgrass Landing
+8138;8255;river_large;10571;1678;1840;1686;1846;Sweetgrass Landing-Fort Chipewyan
+2356;2357;river_large;10306;1710;1803;1717;1809;Quatre Fourches-Cluff Lake
+53;52;sea;9743;1722;962;1726;958;Powell River-Gillies Bay
+52;51;sea;9743;1735;957;1744;963;Gillies Bay-Gibsons
+2198;4899;sea;9992;1776;3223;1778;3221;Koukdjuak-Isulijarnik
+2891;2891;river_large;10540;1780;1732;1785;1740;Tar Island-Tar Island
+9425;9423;river_large;10594;1780;1666;1788;1671;Chipewyan Lake-Mariana Lake
+2891;2890;river_large;10594;1781;1729;1791;1727;Tar Island-Fort McMurray
+2890;2890;river_large;10421;1789;1739;1795;1731;Fort McMurray-Fort McMurray
+940;3025;river_large;10465;1796;1553;1803;1559;Slave Lake-Jarvie
+1387;4600;sea;9885;1801;927;1801;923;Salt Spring Island-Duncan
+1387;1388;sea;9885;1812;935;1823;935;Salt Spring Island-Friday Harbor
+3025;9422;river_large;10309;1814;1576;1818;1586;Jarvie-Calling Lake
+9422;3972;river_large;10309;1824;1603;1832;1610;Calling Lake-Plamondon
+2449;2447;river_large;10504;1866;1431;1874;1428;Drayton Valley-Winfield
+4044;7604;sea;10076;1868;897;1875;897;Port Townsend-Bremerton
+7604;4871;sea;10076;1885;893;1890;898;Bremerton-Seattle
+8918;8919;river_large;10504;1887;1496;1893;1496;Edmonton-Beaumont
+8918;8917;river_large;10504;1890;1505;1897;1505;Edmonton-Sherwood Park
+3437;753;river_large;10503;1921;1568;1926;1581;Vegreville-St. Paul
+1613;2692;sea;9681;1933;793;1936;789;Longview-Goble
+5531;8422;river_large;10276;1967;1010;1975;1008;North Omak-Bridgeport
+3325;2749;sea;9681;1977;777;1980;771;Vancouver-Portland
+8421;6784;river_large;10425;1978;954;1980;946;Waterville-Wenatchee
+2693;2749;river_large;10550;1980;762;1983;766;Beaverton-Portland
+5428;4780;river_large;10355;1998;695;2005;699;Corvallis-Albany
+7257;4950;river_large;10425;2013;925;2018;932;Kittitas-Mattawa
+2106;6079;river_large;10574;2020;823;2023;816;Klickitat-The Dalles
+540;5166;river_large;10261;2035;1905;2045;1899;The Two Rivers-Sandy Narrows
+5848;8746;river_large;10356;2038;1627;2039;1634;Delmas-Sunset View Beach
+7070;5355;river_large;10525;2068;1380;2069;1389;Siksika-Bassano
+539;542;river_large;10589;2069;2007;2083;1998;Lynn Lake-Sherridon
+2240;6470;river_large;10425;2070;924;2071;917;Pasco-Kennewick
+6471;194;river_large;10510;2079;902;2086;898;Prosser-Pendleton
+7325;7995;sea;9727;2100;3883;2106;3887;Qeqertarsuatsiaat-Paamiut
+4097;4096;river_large;10501;2116;1700;2122;1703;Shellbrook-Rosthern
+7784;7783;river_large;10341;2117;1738;2124;1739;Prince Albert-Macdowall
+7783;689;river_large;10341;2134;1743;2142;1746;Macdowall-Birch Hills
+4096;688;river_large;10488;2134;1707;2139;1712;Rosthern-St. Isidore-de-Bellevue
+8544;8546;river_large;10448;2149;1424;2158;1424;Medicine Hat-Schuler
+5167;2221;river_large;10250;2156;1892;2167;1887;Sturgeon Landing-Smoky Burn
+5894;5897;river_large;10332;2165;2219;2176;2219;Split Lake-Ilford
+1005;6633;river_large;10573;2166;1536;2172;1530;Eston-Gull Lake
+6159;6155;river_large;10387;2170;1640;2178;1644;Saskatoon-Whitecap
+545;543;river_large;10523;2186;2360;2197;2356;Port Nelson-York Factory
+2581;1027;river_large;10527;2206;2096;2214;2098;Thicket Portage-Wetikoweskwattam
+1160;2222;river_large;10250;2212;1944;2217;1931;Moose Lake-The Pas
+1004;4336;river_large;10334;2219;1585;2226;1590;Hitchcock Bay-Valjean
+1161;1028;river_large;10527;2229;2071;2236;2078;Wabowden-Norway House
+1160;1159;river_large;10407;2233;1958;2235;1960;Moose Lake-Warren Landing
+6040;7806;river_large;10434;2262;471;2267;478;Corning-Vina
+1663;4006;sea;10129;2277;3239;2284;3235;Kangirsuq-Aupaluk
+1159;2746;river_large;10407;2285;1976;2287;1974;Warren Landing-Long Point
+1359;2845;river_large;10462;2311;430;2316;437;Arbuckle-Live Oak
+8300;7623;river_large;10561;2353;367;2356;362;Vallejo-Concord
+4468;4469;river_large;10462;2358;414;2364;417;West Sacramento-Sacramento
+8302;7100;river_large;10561;2372;396;2379;397;Rio Vista-Galt
+318;319;sea;10129;2379;3392;2384;3389;Killiniq-Kangiqsualujjuaq
+7102;2339;river_large;10273;2391;395;2393;388;Lincoln Village-Country Club
+2339;7104;river_large;10273;2396;389;2400;393;Country Club-Stockton
+1772;2323;river_large;10273;2430;373;2432;379;Patterson-Modesto
+8368;8367;sea;10129;2439;3276;2444;3280;Kuujjuaq-Ungava Kangiqluk
+1391;5550;river_large;10505;2461;2015;2462;2006;Manigotagan-Gimli
+1496;3333;river_large;10247;2523;1952;2526;1960;Selkirk-Lac du Bonnet
+1392;3333;river_large;10431;2526;2000;2531;1993;Powerview-Lac du Bonnet
+1494;2122;river_large;10247;2561;1904;2570;1908;La Salle-Grunthal
+9458;6405;river_large;10431;2577;2038;2584;2032;Kenora-Falcon Lake
+1814;1815;sea;10140;2673;245;2751;265;Santa Rosa-Avalon
+9460;3938;river_large;10302;2687;2010;2696;2006;Fort Frances-Baudette
+2443;7473;sea;9755;2790;3651;2794;3653;Rigolet-Crooks Lake Lodge
+1425;9594;river_large;10303;2821;1585;2829;1577;Highmore-Lower Brule
+1579;2953;river_large;10329;2910;448;2920;452;Big River-Quartzsite
+8024;8026;river_large;10577;2956;1922;2963;1915;Saint Paul-Eagan
+6364;658;river_large;10394;2963;1627;2971;1624;Yankton-Hartington
+8733;8735;river_large;10579;2968;362;2975;366;Guadalupe Victoria-San Luis Río Colorado
+8735;3135;river_large;10579;2988;347;2998;341;San Luis Río Colorado-San Felipe
+3993;327;river_large;10577;2998;1942;3004;1934;River Falls-Northfield
+869;960;river_large;10394;3038;1670;3038;1663;Cherokee-South Sioux City
+640;6288;sea;10012;3057;2386;3059;2379;Sault Ste. Marie-Sault Sainte Marie
+1183;2082;river_large;10380;3073;1962;3075;1969;Winona-La Crosse
+6288;217;sea;9911;3108;2404;3110;2406;Sault Sainte Marie-Tobacco Lake
+2911;218;sea;9911;3130;2490;3133;2487;Espanola-Little Current
+5881;8332;river_large;10440;3142;1636;3145;1643;Nebraska City-Council Bluffs
+3407;6427;river_large;10507;3153;1942;3153;1935;Lancaster-Guttenberg
+5470;2400;river_large;10452;3166;3106;3173;3101;Tadoussac-Saint-Siméon
+8219;6035;river_large;10409;3245;1931;3253;1932;Rock Island-Moline
+7639;3919;sea;9873;3250;3014;3256;3016;Quebec City-Lévis
+8303;6472;sea;9873;3268;2941;3271;2945;Trois-Rivières-Bécancour
+1932;7780;river_large;10433;3279;2811;3288;2811;Saint-André-Avellin-Alfred
+1135;7701;river_large;10312;3283;2764;3292;2761;le Plateau-Ottawa
+7373;7372;river_large;10437;3283;1629;3288;1622;Parkville-Wyandotte
+7559;7923;river_large;10350;3286;1845;3293;1849;Fort Madison-Hamilton
+7317;2233;river_large;10315;3295;2073;3303;2073;Chicago-Hammond
+1927;2253;river_large;10328;3297;2907;3297;2899;Sorel-Tracy-Longueuil
+7655;4375;sea;10124;3298;2868;3302;2870;Sainte-Thérèse-Laval
+8757;7548;river_large;10528;3299;1998;3306;1997;Ottawa-Streator
+7654;1967;river_large;10433;3305;2850;3309;2845;Saint-Eustache-Vaudreuil-Dorion
+4375;4376;sea;10124;3306;2870;3310;2872;Laval-Montréal
+2232;2234;river_large;10315;3306;2042;3311;2049;Aurora-Orland Park
+4376;2253;sea;10124;3309;2880;3311;2885;Montréal-Longueuil
+4376;2255;sea;10124;3316;2870;3322;2870;Montréal-Châteauguay
+1967;1966;sea;10124;3317;2845;3322;2845;Vaudreuil-Dorion-Salaberry-de-Valleyfield
+3873;6622;river_large;10568;3317;1702;3324;1705;Carrollton-Marshall
+1966;3599;sea;10124;3323;2851;3327;2854;Salaberry-de-Valleyfield-Beauharnois
+8378;3600;sea;9939;3329;2813;3336;2813;Cornwall-Akwesasne
+2798;4684;river_large;10402;3329;1934;3335;1938;Peoria-Pekin
+2256;3677;river_large;10464;3335;2884;3338;2892;Saint-Jean-sur-Richelieu-Farnham
+1259;9023;sea;9989;3339;2371;3341;2375;Port Huron-Sarnia
+1403;5619;sea;9939;3355;2731;3363;2733;Brockville-Clayton
+1258;7377;sea;9989;3357;2359;3361;2362;Richmond-Wallaceburg
+2873;2564;sea;9978;3362;2675;3364;2674;Greater Napanee-Prince Edward
+2761;2757;river_large;10398;3365;3224;3372;3221;St. Mary's-Fredericton
+571;7375;sea;9989;3367;2323;3373;2325;Detroit-Windsor
+4115;2264;river_large;10481;3377;1421;3385;1423;Ponca City-Fairfax
+9203;3650;river_large;10446;3385;1836;3389;1827;Pittsfield-Troy
+9203;2733;river_large;10281;3387;1840;3392;1847;Pittsfield-Upper Alton
+7874;8593;sea;9790;3389;2548;3390;2553;Niagara Falls-Niagara Falls
+6391;7142;sea;9757;3399;3525;3402;3528;Baddeck-Sydney
+8645;5600;river_large;10258;3400;1748;3408;1748;Callaway-Belle
+1101;998;river_large;10429;3410;2859;3413;2864;Moriah-Middlebury
+175;176;river_large;10398;3427;3244;3428;3237;Saint John-Grand Bay-Westfield
+3651;4206;sea;10039;3430;1824;3438;1829;O'Fallon-St. Louis
+1080;1082;sea;9976;3435;3205;3459;3201;Saint George-Grand Manan
+6394;4861;sea;9804;3444;3478;3448;3475;Port Hawkesbury-Guysborough
+4206;6430;sea;9709;3450;1830;3461;1834;St. Louis-Waterloo
+6511;1585;river_large;10267;3461;1451;3469;1447;Tulsa-Bixby
+6678;6539;river_large;10354;3512;2811;3517;2818;Albany-Troy
+5128;3763;river_large;10511;3524;1959;3530;1967;Olney-Princeton
+6681;2698;river_large;10291;3546;2793;3554;2798;Catskill-Oakdale
+2475;7828;river_large;10368;3547;1514;3557;1510;Van Buren-Fort Smith
+4000;323;sea;9879;3550;1835;3556;1841;Cape Girardeau-Anna
+3762;6211;river_large;10314;3561;1946;3569;1944;Evansville-Henderson
+416;7813;river_large;10498;3562;2162;3564;2156;Cincinnati-Covington
+5696;7812;river_large;10513;3567;2114;3575;2117;Rising Sun-Warsaw
+6211;320;river_large;10314;3573;1918;3575;1911;Henderson-Harrisburg
+7812;7515;river_large;10513;3576;2113;3580;2105;Warsaw-Shelbyville
+323;1013;sea;9662;3576;1844;3584;1846;Anna-South Fulton
+7971;4921;river_large;10495;3579;2779;3582;2785;New Paltz-Poughkeepsie
+185;7514;river_large;10435;3587;2049;3593;2057;New Albany-Louisville
+185;8632;river_large;10435;3590;2038;3599;2032;New Albany-Elizabethtown
+4618;4620;river_large;10408;3594;1896;3602;1891;Princeton-Ledbetter
+8612;2005;river_large;10546;3596;2364;3597;2373;New Martinsville-Wheeling
+4001;1013;sea;9662;3598;1832;3601;1838;Charleston-South Fulton
+8612;6147;river_large;10546;3601;2361;3608;2364;New Martinsville-Salem
+7840;2632;river_large;10268;3608;2315;3616;2318;Marietta-Parkersburg
+4099;1372;river_large;10557;3609;1396;3616;1391;Hugo-Paris
+5488;7827;river_large;10360;3611;1587;3613;1578;Conway-Dardanelle
+2403;3065;river_large;10288;3619;2209;3626;2208;Portsmouth-Meads
+4620;1012;river_large;10269;3619;1893;3621;1886;Ledbetter-Paducah
+7687;2824;river_large;10581;3625;2101;3627;2108;Lawrenceburg-Georgetown
+6224;6225;sea;10048;3627;2920;3634;2920;Providence-Newport
+5536;6151;sea;9779;3633;1777;3639;1782;Kennett-Dyersburg
+481;4381;river_large;10382;3642;2762;3646;2767;Hackensack-Manhattan
+9551;2551;river_large;10569;3642;2263;3650;2270;Lesage-Teays Valley
+5489;8294;river_large;10360;3648;1599;3655;1593;North Little Rock-Little Rock
+4381;2440;sea;10036;3650;2765;3655;2765;Manhattan-Queens
+4381;478;sea;10036;3651;2761;3651;2755;Manhattan-Newark
+4381;2441;sea;10036;3655;2759;3658;2759;Manhattan-Brooklyn
+3241;3668;river_large;10262;3660;2612;3662;2605;Lancaster-York
+2441;2442;sea;10036;3661;2757;3661;2751;Brooklyn-Staten Island
+4617;3249;river_large;10553;3664;1914;3673;1914;Clarksville-Dickson
+5189;774;river_large;10590;3673;1463;3682;1463;De Queen-Texarkana
+1844;3710;river_large;10378;3675;2707;3678;2700;Trenton-Levittown
+5404;335;sea;10109;3680;1725;3685;1733;West Memphis-Memphis
+5385;3249;river_large;10553;3686;1930;3691;1923;Hendersonville-Dickson
+4077;4490;river_large;10473;3688;2682;3694;2685;Philadelphia-Cherry Hill
+1705;3183;river_large;10545;3694;2621;3697;2614;Christiania-Aberdeen
+5101;9538;-1;-1;3696;922;3704;915;Rubboard Crossing-Acuña
+774;2792;river_large;10590;3703;1459;3712;1464;Texarkana-Magnolia
+5388;641;river_large;10371;3704;1983;3714;1979;Gallatin-Mount Juliet
+1705;2811;river_large;10563;3706;2631;3713;2633;Christiania-Middletown
+1704;2811;river_large;10563;3707;2645;3713;2642;Wilmington-Middletown
+5667;9043;river_large;10479;3714;1860;3714;1853;Hohenwald-Mount Carmel
+1829;676;river_large;10491;3716;1639;3721;1648;DeWitt-Helena
+676;8488;sea;9686;3719;1659;3728;1658;Helena-Clarksdale
+1829;5830;river_large;10471;3726;1624;3736;1618;DeWitt-Dumas
+5091;9540;river_large;10335;3739;932;3740;924;Brackettville-Jiménez
+4810;7469;river_large;10531;3767;1808;3768;1817;Booneville-Red Bay
+5830;6205;sea;9942;3769;1607;3779;1612;Dumas-Greenville
+5330;4643;river_large;10307;3772;1849;3780;1848;Florence-Muscle Shoals
+8212;2164;river_large;10489;3778;1444;3779;1435;Red Chute-Mansfield
+1851;9579;river_large;10459;3797;2016;3806;2021;Chattanooga-Athens
+394;595;sea;9942;3805;1588;3814;1595;Lake Providence-Mayersville
+5072;2294;river_large;10335;3809;922;3809;912;Las Quintas Fronterizas-Unión
+5332;5345;river_large;10333;3829;1931;3836;1935;Scottsboro-Rainsville
+7470;7824;river_large;10506;3849;1766;3849;1759;Columbus-West Point
+6324;594;sea;9655;3849;1579;3855;1586;Tallulah-Vicksburg
+5711;3292;river_large;10552;3860;1462;3863;1453;Ball-Boyce
+5956;5710;river_large;10270;3903;1497;3908;1501;Marksville-Monterey
+820;5988;river_large;10506;3912;1760;3914;1753;Eutaw-Livingston
+5710;2696;sea;9640;3912;1502;3919;1507;Monterey-Woodville
+5710;5482;river_large;10270;3912;1499;3917;1493;Monterey-Port Allen
+5954;5482;river_large;10500;3933;1479;3935;1487;Ville Platte-Port Allen
+5526;9225;river_large;10256;3937;913;3941;922;Mier-Zapata
+1614;4495;river_large;10549;3942;1741;3950;1745;Butler-Thomasville
+7231;5481;sea;9749;3972;1506;3972;1496;Baton Rouge-Gardere
+5481;9499;river_large;10500;3972;1480;3972;1474;Gardere-Breaux Bridge
+4497;8365;river_large;10549;3990;1734;3991;1725;Grove Hill-Jackson
+4497;585;river_large;10593;4000;1744;4009;1746;Grove Hill-Monroeville
+7519;887;river_large;10323;4013;1588;4014;1596;Slidell-Carriere
+9210;3743;river_large;10529;4014;948;4017;940;McAllen-Reynosa
+8216;5503;sea;10031;4020;1539;4023;1531;New Orleans-Luling
+9501;5505;river_large;10254;4021;1471;4028;1475;Franklin-Morgan City
+4953;4954;river_large;10294;4034;1703;4040;1709;Mobile-Bay Minette
+8317;7796;river_large;10460;4048;2235;4055;2233;Manning-Ridgeville
+8217;8484;sea;10031;4055;1555;4061;1546;Fairview-Marrero
+6576;3636;river_large;10529;4062;989;4073;990;Harlingen-Brownsville
+1781;1869;river_large;10585;4088;2150;4093;2142;Hampton-Rincon
+2354;4987;river_large;10467;4103;2069;4112;2068;Vidalia-Baxley
+3568;6170;river_large;10480;4107;1887;4108;1878;Donalsonville-Marianna
+8764;6352;river_large;10389;4164;2105;4170;2097;Hinesville-Brunswick
+379;6998;river_large;10532;4175;1844;4180;1852;Port Saint Joe-Crawfordville
+2900;2901;sea;10067;4632;1924;4639;1935;Key West-Key Largo
+7084;3671;sea;10018;4751;1438;4764;1444;del Carmen-Cozumel
+5350;5351;sea;9995;5454;2843;5497;2837;Charlotte Amalie-Christiansted
+7124;7123;sea;9995;5565;3035;5597;3023;Codrington-St. John's
+5700;9114;river_large;10367;5762;1998;5763;1989;La Quinta-Barranquilla
+9113;654;river_large;10367;5800;1967;5807;1972;Campo de la Cruz-Pivijay
+828;5621;sea;10069;5838;2214;5840;2216;La Tetona-El Trueno
+5736;2272;river_large;10251;5857;1963;5857;1953;Plato-Magangué
+7214;5621;sea;9874;5859;2208;5862;2212;Maracaibo-El Trueno
+5622;7214;sea;9874;5870;2208;5870;2200;Cabimas-Maracaibo
+2272;8043;river_large;10560;5879;1950;5886;1955;Magangué-El Banco
+5734;8043;river_large;10536;5883;1968;5889;1962;Santa Ana-El Banco
+5623;8045;river_large;10560;5945;1939;5949;1948;Sucre-Achí
+8044;2870;river_large;10411;5955;1996;5956;2006;Morales-Pelaya
+8436;5806;sea;10008;6016;2747;6031;2749;Porlamar-Laguna Chica
+4741;9352;river_large;10411;6021;1969;6027;1974;Cantagallo-Puerto Wilches
+1839;1823;sea;9746;6070;2882;6074;2897;Güiria-Port of Spain
+4743;222;river_large;10567;6084;1903;6089;1912;Puerto Berrío-Cimitarra
+1530;3604;river_large;10295;6096;2282;6105;2287;Cachaza-Las Uvitas
+8506;4622;sea;9746;6117;2865;6119;2854;Point Fortin-Guaranoco
+9455;3029;river_large;10397;6129;2371;6139;2365;Boca de Perro-El Zancudo
+1647;1898;river_large;10458;6136;1866;6141;1874;La Dorada-Yacopí
+4621;9062;river_large;10456;6162;2826;6167;2815;Tucupita-Soledad de Yabo
+8869;3028;river_large;10282;6172;2450;6179;2446;La Yagua-Socavón
+4621;5724;river_large;10519;6179;2850;6186;2855;Tucupita-Yaguaraco
+5689;8423;river_large;10530;6198;2527;6207;2523;La Estaca-El Oso
+9063;1204;river_large;10337;6212;2801;6221;2804;El Cerro Del Chivo-Geina
+3028;8425;river_large;10331;6214;2451;6222;2456;Socavón-El Venado
+6312;1362;river_large;10419;6218;2709;6225;2709;Buena Esperanza-Bolívar
+6144;5846;river_large;10349;6225;2612;6233;2615;Los Frailes-Palancón
+5725;1204;river_large;10556;6229;2861;6235;2853;Siawani-Geina
+1275;3837;river_large;10580;6251;2184;6259;2187;El Diluvio-La Primavera
+7849;3836;river_large;10508;6262;2380;6269;2374;La Ollita-Puerto Carreño
+3836;2556;river_large;10582;6293;2373;6300;2378;Puerto Carreño-Puerto Ayacucho
+2555;228;river_large;10365;6389;2326;6393;2318;Laja Negra-Lagunitas
+650;3223;sea;9798;6408;3037;6419;3040;Anna Regina-Georgetown
+649;3223;sea;9798;6433;3019;6436;3022;Suddie-Georgetown
+8652;8651;sea;9823;6551;1306;6552;1309;Guayaquil-Yaguachi Nuevo
+8652;8650;sea;9823;6555;1279;6567;1280;Guayaquil-Las Lozas
+4833;3418;sea;10043;6589;3316;6592;3319;Moengo-Mana
+7581;7579;sea;9772;6938;3474;6939;3471;Maracá-Amapá
+5863;627;sea;10057;7227;3495;7233;3495;Muaná-Abaetetuba
+11741;11735;sea;10099;7415;3771;7418;3770;São Luís-Anajatuba
+9397;9396;river_large;10229;5416;3091;5411;3100;Moyogalpa-Nochari
+-1;-1;;-1;-1;-1;-1;-1;
