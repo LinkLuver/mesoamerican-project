@@ -13,12 +13,13 @@
 	levy_template = levy_mayan
 
 	male_names = {
-	     Chak Yikʼin Chan Pacal Yopaat Ahk Kʼawiil Bahlam Ichʼaak Janaab Itzamnaaj Tatbʼu Yoʼnal Muwaan Tuun Uaxaclajuun Kʼan Nuun Yaxun Bolon Ajaw Bʼalam Kʼuhul Yax Waxaklajuun Ak Sihyaj Tutum Kʼakʼ Ukʼab Teʼ Toob'il Ekʼ Hix Bahlam_Tzam Winik Tzʼayaj Haʼ_Kʼin Uxman Chanal Mat Tum_Yohl Aj Tzʼikin Wak Ox Nuun_Ujol Tahil Kinich Boluʼ Mih_Toh Tutuum Aj_Hoʼ Joy Tiʼ Tzih Tzayal Ajun Akul Aktaʼ Tzi Ixkun
+	     Chak Yik_in Chan Pacal Yopaat Ahk K_awiil Bahlam Ich_aak Janaab Itzamnaaj Tatb_u Yo_nal Muwaan Tuun Uaxaclajuun K_an Nuun Yaxun Bolon Ajaw B_alam K_uhul Yax Waxaklajuun Ak Sihyaj Tutum K_ak_ Uk_ab Te_ Toob_il Ek_ Hix Bahlam_Tzam Winik Tz_ayaj Ha_K_in Uxman Chanal Mat Tum_Yohl Aj Tz_ikin Wak Ox Nuun_Ujol Tahil Kinich Bolu_ Mih_Toh Tutuum Aj_Ho_ Joy Ti_ Tzih Tzayal Ajun Akul Akta_ Tzi Ixkun
 	}
 
 	female_names = {
-	     Lady_Xoc Lady_Shield_Skull Lady_Pacal Lady_Green_Rabbit Lady_Star_Shell Lady_Eveningstar Lady_Muyal_Chan_Kʼawiil Yohl_Ikʼnal Wak_Chanil Lady_Unen_Bahlam Lady_Itzan Lady_Buluʼ Lady_Kʼal Lady_Chuwen Lady_Hand Lady_Bird_Headdress Lady_White_Bird Lady_Mut_Bahlam Lady_Chab-Ahab Ixchel Ixtab Lady_Batzʼ_Ekʼ Lady_Tzutz_Nik Lady_Great_Skull Lady_Kʼawill_Chan Lady_Sak_Bʼiyaan Lady_Akna Lady_Kan_Ik Lady_Kinuw Lady_Tum_Bahlam Ajaw_Bʼot
+	     Lady_Xoc Lady_Shield_Skull Lady_Pacal Lady_Green_Rabbit Lady_Star_Shell Lady_Eveningstar Lady_Muyal_Chan_K_awiil Yohl_Ik_nal Wak_Chanil Lady_Unen_Bahlam Lady_Itzan Lady_Bulu_ Lady_K_al Lady_Chuwen Lady_Hand Lady_Bird_Headdress Lady_White_Bird Lady_Mut_Bahlam Lady_Chab_Ahab Ixchel Ixtab Lady_Batz_Ek_ Lady_Tzutz_Nik Lady_Great_Skull Lady_K_awill_Chan Lady_Sak_B_iyaan Lady_Akna Lady_Kan_Ik Lady_Kinuw Lady_Tum_Bahlam Ajaw_B_ot
 	}
+
 
 
 	family = {

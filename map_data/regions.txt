@@ -1,5 +1,1 @@
-﻿india_region = {
-	areas = {
-		india_area
-	}
-}
+﻿
