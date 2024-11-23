@@ -97,11 +97,11 @@ has_urban_trade_good_trigger = {
 
 has_non_urban_trade_good_trigger = {
 	NOR = {
-		trade_goods = papyrus
+		trade_goods = amate
 		trade_goods = cloth
 		trade_goods = earthware
 		trade_goods = dye
-		trade_goods = glass
-		trade_goods = silk
+		trade_goods = beads
+		trade_goods = cotton
 	}
 }
