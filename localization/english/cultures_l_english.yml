@@ -8,3 +8,11 @@
  yucatan:0 "Mayab"
  huastec:0 "Huastec"
  highland:0 "Witzil"
+ #Names
+ mayan_malename:0 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ mayan_femalename:0 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ #Military
+ ARMY_NAME_mayan:0 "$NUM$$ORDER$ Ko'h"
+ NAVY_NAME_mayan:0 "$NUM$$ORDER$ Aj K'ab'"
+ COHORT_NAME_mayan:0 "$HOME$'s $NUM$$ORDER$ Ch'akb'al"
+ LEGION_NAME_mayan:0 "$NUM$$ORDER$ Tz'akb'al of $HOME$"
