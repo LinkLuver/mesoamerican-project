@@ -22,7 +22,7 @@
 	country="TIK"
 	2={
 		first_name="Yax Ehb Xook"
-		family_name="Xookid"
+		family="c:TIK.fam:Xokid"
 		birth_date=843.4.3 #8.2.9.5.0
 		death_date=922.9.11
 		culture="highland"
@@ -37,7 +37,7 @@
 	}
 	3={
 		first_name="Siyaj Chan Kʼawil Chak Ichʼaak"
-		family_name="Xookid"
+		family="c:TIK.fam:Xokid"
 		father="char:2"
 		birth_date=900.3.19
 		death_date=950.1.1

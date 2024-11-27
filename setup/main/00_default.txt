@@ -1,6 +1,5 @@
 country = {
 	countries = {
-	
 		BAR = {
 			government = tribal_chiefdom
 		}
