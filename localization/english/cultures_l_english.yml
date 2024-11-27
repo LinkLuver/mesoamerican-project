@@ -1,6 +1,6 @@
 ﻿l_english:
 
- ## MAYANS
+ ## MAYA
  #Group
  mayan:0 "Maya"
  #Cultures
@@ -14,5 +14,5 @@
  #Military
  ARMY_NAME_mayan:0 "$NUM$$ORDER$ Ko'h"
  NAVY_NAME_mayan:0 "$NUM$$ORDER$ Aj K'ab'"
- COHORT_NAME_mayan:0 "$HOME$'s $NUM$$ORDER$ Ch'akb'al"
+ COHORT_NAME_mayan:0 "$NUM$$ORDER$ Ch'akb'al $HOME$"
  LEGION_NAME_mayan:0 "$NUM$$ORDER$ Tz'akb'al of $HOME$"

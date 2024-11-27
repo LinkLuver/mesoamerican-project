@@ -1,0 +1,24 @@
+﻿l_english:
+
+ oasis:0 "Oasis"
+ oasis_desc:0 "A desert Oasis, full of life in a land surrounded by endless desert."
+ desert_hills:0 "Desert Hills"
+ desert_hills_desc:0 "The rolling hills of the desert stretch for endless lengths in all directions in this unforgiving land."
+ flood_plain:0 "Floodplain"
+ flood_plain_desc:0 "Prosperous floodplains lay on the edge of many rivers and provide life to the surrounding communities."
+ dry_hills:0 "Dry Hills"
+ dry_hills_desc:0 "A dry and desolate wasteland, populated only by small lizards and the howls of strange nocturnal hunters."
+ dry_plains:0 "Dry Plains"
+ dry_plains_desc:0 "Dry, hot winds blow through the dusty hills; an unforgiving place, where water is scarce."
+
+ get_oasis:0 "in an oasis."
+ get_desert_hills:0 "in desert hills."
+ get_flood_plain:0 "in floodplains."
+ get_dry_hills:0 "in the dry hills."
+ get_dry_plains:0 "in the dry plains."
+ 
+ oasis_combat_bonus:0 "Oasis Combat Bonus"
+ desert_hills_combat_bonus:0 "Desert Hills Bonus"
+ flood_plain_combat_bonus:0 "Floodplain Combat Bonus"
+ dry_hills_combat_bonus:0 "Dry Hills Combat Bonus"
+ dry_plains_combat_bonus:0 "Dry Plains Combat Bonus"
