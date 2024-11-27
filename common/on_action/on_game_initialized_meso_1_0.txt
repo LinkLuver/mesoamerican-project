@@ -290,15 +290,6 @@
 		}
 		if = {
 			limit = {
-				primary_culture = samnite
-			}
-			set_variable = {
-				name = ver_sacrum_num_var
-				value = 0
-			}
-		}
-		if = {
-			lmit = {
 				NOT = { has_global_variable = longcount_calendar }
 			}
 		}

@@ -76,5 +76,5 @@ mayan_longcount_script = {
     uinal_final = { value = calc_uinal_svalue }
     kin_final = { value = calc_kin_svalue }
 
-    #Use $mayan_long_count_display$ for Localization
+    # Use $mayan_long_count_display$ for Localization
 }
