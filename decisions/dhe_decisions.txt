@@ -1,7 +1,7 @@
 ﻿country_decisions = {
 
 	### Volcano Related Decisions ###
-	fix_volcanic_area_vesuvius = {
+	fix_volcanic_area_ilopango = {
 		potential = {
 			num_of_cities >= 1
 			any_owned_province = {

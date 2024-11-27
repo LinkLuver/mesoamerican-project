@@ -1,6 +1,6 @@
-﻿indian = {
-	#Dravidian (southern)
-	color = hsv { 0.8 0.6 0.6 }
+﻿mayan = {
+	#Maya
+	color = hsv { 0 0.91 0.55 }
 	
 	primary = archers
 	second = chariots
@@ -76,6 +76,6 @@
 	
 	graphical_culture = south_indian_gfx
 	ethnicities = {
-		10 = dravidian
+		10 = mayan
 	}
 }

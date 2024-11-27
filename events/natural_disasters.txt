@@ -13,7 +13,7 @@ natural_disaster_events.1 = {
 	goto_location = p:11954
 	
 	trigger = {
-		current_date > 632.1.1
+		current_date > 1182.1.1
 		owns = 11954
 	}
 	
