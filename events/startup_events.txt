@@ -19,7 +19,8 @@ startup_events.1 = { # Maya Preclassic Collapse
 }
 
 startup_events.2 = { # K'in Tick
-	type = hidden
+	type = country_event
+	hidden = yes
 	immediate = {
 		set_global_variable = {
 			name = kin_tick
@@ -33,7 +34,8 @@ startup_events.2 = { # K'in Tick
 }
 
 startup_events.3 = { # Add One K'in // 18 Days
-	type = hidden
+	type = country_event
+	hidden = yes
 	immediate = {
 		change_global_variable = {
 			name = kin_tick
