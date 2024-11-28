@@ -342,7 +342,7 @@ civic_2 = {
 					has_dlc = "Heirs of Alexander"
 				}
 				#custom_tooltip = "allow_league_cities_tt" - disabled for now
-				#set_variable = league_city_var #no need, since the gui still exists, but has always = no in potential
+				set_variable = league_city_var #no need, since the gui still exists, but has always = no in potential
 				custom_tooltip = "allow_gw_effect_expanding_population"
 				
 			}

@@ -125,10 +125,6 @@ invest_in_state_button_civic = {
 				limit = {
 					has_dlc = "Magna Graecia"
 				}
-				NOR = {
-					tag = SPA
-					has_variable = spa_unique_mech
-				}
 			}
 		}
     }
@@ -351,12 +347,6 @@ invest_in_state_button_religious = {
 					has_dlc = "Magna Graecia"
 				}
 			}
-			scope:player = {
-				NOR = {
-					tag = SPA
-					has_variable = spa_unique_mech
-				}
-			}
 		}
 	}
   
@@ -465,10 +455,6 @@ invest_in_state_button_military_SPA = {
 			trigger_if = {
 				limit = {
 					has_dlc = "Magna Graecia"
-				}
-				OR = {
-					tag = SPA
-					has_variable = spa_unique_mech
 				}
 			}
 			trigger_else = {
@@ -585,10 +571,6 @@ invest_in_state_button_religious_SPA = {
 			trigger_if = {
 				limit = {
 					has_dlc = "Magna Graecia"
-				}
-				OR = {
-					tag = SPA
-					has_variable = spa_unique_mech
 				}
 			}
 			trigger_else = {
