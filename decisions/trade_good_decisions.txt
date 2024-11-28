@@ -1,4 +1,4 @@
-﻿country_decisions = {
+﻿country_decisions = { # To change -- idrk what this is, but flavor is flavor
 	#NOTE: There are 2 scripted triggers in every decision and 1 scripted effect in some decisions:
 	# 1. - Potential for all decisions
 	#	trade_good_decision_potential = {

@@ -25,7 +25,7 @@ tribal_raid.31 = {
     option = {
         name = "tribal_raid.31.a"
         custom_tooltip = tribal_raid.31_tooltip1
-        trigger_event = { id =  tribal_raid.32 days = 7 }
+        trigger_event = { id = tribal_raid.32 days = 7 }
         
     }
     option = {
@@ -169,7 +169,7 @@ tribal_raid.32 = {
         name = "tribal_raid.32.a"
         remove_variable = going_on_a_raid_1_32
         scope:aggressive_neighbor = {
-            trigger_event = { id =  tribal_raid.33 days = 2 }
+            trigger_event = { id = tribal_raid.33 days = 2 }
         }
         custom_tooltip = tribal_raid.32_tooltip
         add_treasury = {
@@ -185,7 +185,7 @@ tribal_raid.32 = {
         name = "tribal_raid.32.b"
         remove_variable = going_on_a_raid_2_32
         scope:aggressive_neighbor = {
-            trigger_event = { id =  tribal_raid.33 days = 2 }
+            trigger_event = { id = tribal_raid.33 days = 2 }
         }
         custom_tooltip = tribal_raid.32_tooltip
         add_treasury = {
@@ -198,7 +198,7 @@ tribal_raid.32 = {
         name = "tribal_raid.32.c"
         remove_variable = going_on_a_raid_3_32
         scope:aggressive_neighbor = {
-            trigger_event = { id =  tribal_raid.33 days = 2 }
+            trigger_event = { id = tribal_raid.33 days = 2 }
         }
         custom_tooltip = tribal_raid.32_tooltip
         add_treasury = {
@@ -211,7 +211,7 @@ tribal_raid.32 = {
         name = "tribal_raid.32.d"
         remove_variable = going_on_a_raid_4_32
         scope:aggressive_neighbor = {
-            trigger_event = { id =  tribal_raid.33 days = 2 }
+            trigger_event = { id = tribal_raid.33 days = 2 }
         }
         custom_tooltip = tribal_raid.32_tooltip
         add_treasury = {
@@ -224,7 +224,7 @@ tribal_raid.32 = {
         name = "tribal_raid.32.e"
         remove_variable = going_on_a_raid_5_32
         scope:aggressive_neighbor = {
-            trigger_event = { id =  tribal_raid.33 days = 2 }
+            trigger_event = { id = tribal_raid.33 days = 2 }
         }
         custom_tooltip = tribal_raid.32_tooltip
         add_treasury = {
@@ -237,7 +237,7 @@ tribal_raid.32 = {
         name = "tribal_raid.32.f"
         remove_variable = going_on_a_raid_6_32
         scope:aggressive_neighbor = {
-            trigger_event = { id =  tribal_raid.33 days = 2 }
+            trigger_event = { id = tribal_raid.33 days = 2 }
         }
         custom_tooltip = tribal_raid.32_tooltip 
     }
@@ -246,7 +246,7 @@ tribal_raid.32 = {
         name = "tribal_raid.32.g"
         remove_variable = going_on_a_raid_7_32
         scope:aggressive_neighbor = {
-            trigger_event = { id =  tribal_raid.33 days = 2 }
+            trigger_event = { id = tribal_raid.33 days = 2 }
         }
         current_ruler = {
             add_martial = 1
@@ -258,7 +258,7 @@ tribal_raid.32 = {
         name = "tribal_raid.32.h"
         remove_variable = going_on_a_raid_8_32
         scope:aggressive_neighbor = {
-            trigger_event = { id =  tribal_raid.33 days = 2 }
+            trigger_event = { id = tribal_raid.33 days = 2 }
         }
         current_ruler = {
             add_trait = wounded
@@ -270,7 +270,7 @@ tribal_raid.32 = {
         name = "tribal_raid.32.i"
         remove_variable = going_on_a_raid_9_32
         scope:aggressive_neighbor = {
-            trigger_event = { id =  tribal_raid.33 days = 2 }
+            trigger_event = { id = tribal_raid.33 days = 2 }
         }
          current_ruler = {
             add_trait = maimed
@@ -283,7 +283,7 @@ tribal_raid.32 = {
         name = "tribal_raid.32.j"
         remove_variable = going_on_a_raid_10_32
         scope:aggressive_neighbor = {
-            trigger_event = { id =  tribal_raid.33 days = 2 }
+            trigger_event = { id = tribal_raid.33 days = 2 }
         }
         add_stability = -5
         current_ruler = {

@@ -43,7 +43,7 @@
 
 	effect = {
 		scope:actor = {
-			trigger_event = { id =  tribal_raid.31 }
+			trigger_event = { id = tribal_raid.31 }
 		}
 		scope:target = {
 			set_variable = {
