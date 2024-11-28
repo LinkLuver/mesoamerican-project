@@ -18,6 +18,7 @@
 	atlatlist = 1.1
 	slingers = 1.3
 	blowgunners = 0.95
+	wardogs = 1.3
 	
 	attrition_weight = 1.25
 	attrition_loss = 0.05

@@ -17,7 +17,7 @@
 	atlatlist = 1.2
 	slingers = 1.0
 	blowgunners = 1.2
-
+	wardogs = 0.85
 	
 	supply_train = 2.0
 	

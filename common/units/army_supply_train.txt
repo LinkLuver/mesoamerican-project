@@ -26,6 +26,7 @@ supply_train = {
 	atlatlist = 0.1
 	slingers = 0.1
 	blowgunners = 0.1
+	wardogs = 0.1
 	supply_train = 1
 	
 	attrition_weight = 1.0
