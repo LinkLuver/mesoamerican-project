@@ -23,7 +23,6 @@
 	attrition_weight = 0.9
 	
 	morale_damage_taken = 1.2
-
 	
 	attrition_loss = 0.05
 	ai_max_percentage = 15
