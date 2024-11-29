@@ -27,7 +27,7 @@
  stoneDESC:0 "Quartz, flint, novaculite, and other stones were used in tandem with sharper materials like obsidian, or handled with wood, it makes for an effective and cheap source of weaponry."
  #Food
  maize:0 "Maize"
- maize_DESC:0 "Maize represents a crop central to civilization itself, often associated with gods, prosperity, myths, and development, especially in Mesoamerica."
+ maizeDESC:0 "Maize represents a crop central to civilization itself, often associated with gods, prosperity, myths, and development, especially in Mesoamerica."
  fish:0 "Fish"
  fishDESC:0 "Fish provide a staple part of the diet and economy of every coastal civilization in the world."
  spices:0 "Spices"
