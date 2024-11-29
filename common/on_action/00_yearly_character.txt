@@ -1,3 +1,0 @@
-﻿yearly_character_pulse =
-{
-}
