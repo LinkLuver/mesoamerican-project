@@ -57,21 +57,6 @@
 	culture = {
 		#Britannic
 		britannic = {} #deprecated
-		caledonian = {}
-		iceni = {}
-		trinovantian = {}
-		cantian = {}
-		durotrigan = {}
-		dumnonian = {}
-		dobunnian = {}
-		demetian = {}
-		ordovitian = {}
-		coritani = {}
-		cornovian = {}
-		brigantic = {}
-		votadinian = {}
-		damnonian = {}
-		taexalian = {}
 	}
 	
 	barbarian_names = { ANCALITES ATTACOTTI BIBROCI HORESTI CASSI GABRANTOVICES GANGANI NOVANTAE LOPOCARES SEGONTIACI SELGOVAE }

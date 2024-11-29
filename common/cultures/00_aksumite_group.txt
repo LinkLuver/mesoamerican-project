@@ -59,7 +59,6 @@
 	}
 
 	culture = {
-		puntic = {}
 		aksumite = { }
 	}
 	

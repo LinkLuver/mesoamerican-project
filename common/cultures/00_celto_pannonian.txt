@@ -60,11 +60,6 @@
 	}
 	culture = {
 		celtic_pannonian = {}
-		letobician = {}
-		carnian = {}
-		noric = { levy_template = levy_norican }
-		boian = {}
-		eravisci = {}
 	}
 	
 	barbarian_names = { TECTOSAGES TOLISTOBOGES TROCMES AIGOSAGES DAGUTENES INOVANTENES OKONDIANES RIGOSAGES }

@@ -43,16 +43,6 @@
 		Kunlyu.Kunlyu.Kunlyus.Kunlayad
 	}
 	culture = {
-		scythian = { levy_template = levy_scythians }
-		sarmatian = { levy_template = levy_sarmatian }
-		kharesmian = {}
-		derbiccan = { levy_template = levy_dahae }
-		sindi = {}
-		siraci = {}
-		maeotian = {}
-		sakan = {}
-		thyssagetaen = {}
-		legian = {}
 		agathyrsian = {}
 	}
 	

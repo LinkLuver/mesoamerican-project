@@ -49,7 +49,6 @@
 
 	culture = {
 		meroitic = {}
-		blemmyan = { levy_template = levy_blemmyan }
 	}
 	
 	barbarian_names = { GARAMANTES NASSAMONES ASBYSTAE ADYRMACHIDAE GILLIGAMAE AUSCHISAE TROGLODYTAE PSYLLI LAGUATANI MESHWESH }

@@ -41,18 +41,6 @@
 	}
 	culture = {
 		dacian = {}
-		getian = {}
-		triballoi = {}
-		moesi = {}
-		harpii = {}
-		costoboci = {}
-		buridavensi = {}
-		caucoensi = {}
-		ratacensi = {}
-		biephi = {}
-		odrysi = { levy_template = levy_thracians }
-		bithynian = {}
-		mariandynian = {}
 	}
 	
 	barbarian_names = { AEDI BIEPHI BIESSOI CARPI CIAGINSI CROBIDAE PIEPHIGI SUCI TERICI TRIXAE }

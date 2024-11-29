@@ -50,11 +50,6 @@
 	}
 	
 	culture = {
-		kalingan = { levy_template = levy_jungle_indian }
-		kamarupi = { levy_template = levy_jungle_indian }
-		bangli = {}
-		atavi = { levy_template = levy_jungle_indian }
-		magadhi = {}
 		himalayan = { }
 	}
 	

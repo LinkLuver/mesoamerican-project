@@ -57,8 +57,6 @@
 	
 	culture = {
 		aramaic = {}
-		assyrian = {}
-		babylonian = { levy_template = levy_babylonian }
 	}
 	
 	barbarian_names = { 

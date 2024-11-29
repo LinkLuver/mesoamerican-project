@@ -51,8 +51,6 @@
 	
 	culture = {
 		kannadan = {}
-		tamil = {}
-		telugu = {}
 	}
 	
 	barbarian_names = {

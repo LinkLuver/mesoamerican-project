@@ -57,8 +57,6 @@
 		}
 
 	culture = {
-		albanian = { levy_template = levy_albanian }
-		ibero = {}
 		colchian = {}
 	}
 	

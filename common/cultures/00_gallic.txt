@@ -60,19 +60,6 @@
 		Galanus.Galana.Galanii.Galanid
 	}
 	culture = {
-		aremorican = { levy_template = levy_northern_gallic }
-		lepontic = { levy_template = levy_italian_gallic }
-		vindelician = {}
-		helvetian = {}
-		biturigan = {}
-		volcae = { }
-		salluvian = { levy_template = levy_italian_gallic }
-		haedui = {}
-		carnuti = {}
-		santonian = {}
-		lemovician = {}
-		pictonian = {}
-		aulercian = { levy_template = levy_northern_gallic }
 		arverni = {}
 	}
 	

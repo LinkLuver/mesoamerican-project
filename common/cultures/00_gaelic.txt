@@ -39,7 +39,6 @@
 	
 	culture = {
 		hibernian = {}
-		manavian = {}
 	}
 	
 	barbarian_names = { AUTINI ERPEDITANI MAGNATAE UTERNI ULIDIA }

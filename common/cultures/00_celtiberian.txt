@@ -59,18 +59,6 @@
 	}
 	culture = {
 		caristian = {}
-		celtician = {}
-		lusitanian = {}
-		vettonian = {}
-		carpetanian = {}
-		celtiberian = {}
-		lobetanian = {}
-		sedetanian = {}
-		vaccaeian = {}
-		asturian = {}
-		callaecian = {}
-		vardulian = {}
-		
 	}
 	
 	barbarian_names = { AMACI AREVACI BELLI BLETONESSI COELERNI CONCANI CONII LANCIENSI LUGGONES LUSONES NEMETATI ORGENOMESCI ORNIACOS PAESURI TITTI VADINIENSI VARDULI VETERES }

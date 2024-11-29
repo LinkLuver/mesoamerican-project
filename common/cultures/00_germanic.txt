@@ -93,25 +93,6 @@
 	}
 	culture = {
 		saxonian = {}
-		anglian = {}
-		reudingian = {}
-		teutonian = {}
-		cimbrian = {}
-		herulian = {}
-		rugian = {}
-		helveconian = {}
-		bastarnae = {}
-		gutones = {}
-		suiones = {}
-		vandal = {}
-		raumarician = {}
-		irminonic = {}
-		istvaeonic = {}
-		ingvaeonic = {}
-		suebian = {}
-		lemovian = {}
-		gothonic = {}
-		frisian = {}
 	}
 	barbarian_names = { AMBRONES ANGLII ANGRIVARII AUIONES BATAVI BRUCTERI CALUCONES CHATTI CHAUCI CHERUSCI CIMBRI DULGUMNII FRISII HERMUNDURI INGVAEONES LANGOBARDI LUGII MARCOMANNI QUADI SEMNONES SUGAMBRI TENCTERI TEUTONES UBII USIPI VARISTI }
 	

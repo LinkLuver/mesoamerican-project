@@ -77,14 +77,6 @@
 	}
 	
 	culture = {
-		hadhrami = { levy_template = levy_hadrami }
-		qatabanian = { levy_template = levy_south_arabian }
-		sheban = { levy_template = levy_south_arabian }
-		minaean = { levy_template = levy_south_arabian }
-		himjar = { levy_template = levy_south_arabian }
-		makan = {}
-		taif = {}
-		thamudi = {}
 		qedarite = {}
 	}
 	

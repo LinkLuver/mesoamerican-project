@@ -42,16 +42,6 @@
 	}
 	culture = {
 		oretanian = {}
-		contestanian = {}
-		bastetanian = {}
-		ilercavonian = {}
-		edetanian = {}
-		lacetanian = {}
-		indiketian = {}
-		ausetanian = {}
-		turdetanian = {}
-		couneian = {}
-		turdulian = {}
 	}
 	
 	barbarian_names = { AUSETANI BASTETANI LAIETANI CASTELLANI CERRETANI HELISYCES SORDONES PITYUSSAI }
