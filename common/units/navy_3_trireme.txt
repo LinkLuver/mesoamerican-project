@@ -2,7 +2,7 @@
 	#War Canoes
 	army = no
 	category = heavy
-	port_level = 1
+	port_level = 3
 	
 	maneuver = 2
 	movement_speed = 12
@@ -11,7 +11,7 @@
 	allow = {
 		trade_good_surplus = { target = wood value > 0 }
 	}
-	
+
 	build_time = 120
 	
 	morale_damage_done = 1.15
