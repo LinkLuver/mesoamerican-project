@@ -1,4 +1,4 @@
-﻿global_var:total_days = {
+﻿global_var:days_from_start_date = {
 	value = global_var:kin_tick # Total Number of Days Passed
 	add = 1208880 # Total Number at Start
 }
@@ -6,13 +6,13 @@
 mayan_longcount_script = {
     # Step 1: Calculate Baktuns (integer only)
     calc_baktun_svalue = {
-        value = global_var:total_days
+        value = global_var:days_from_start_date
         divide = 144000
     }
 
     # Step 2: Calculate Remaining Days After Baktuns
     remaining_days_after_baktun_svalue = {
-        value = global_var:total_days
+        value = global_var:days_from_start_date
         subtract = {
             value = calc_baktun_svalue
             multiply = 144000
