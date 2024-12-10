@@ -1,3 +1,0 @@
-﻿monthly_ruler_pulse =
-{
-}

@@ -1,2 +1,0 @@
-﻿biyearly_country_pulse = {
-}
