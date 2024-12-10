@@ -6,4 +6,4 @@
 	layer="monument_layer"
 	pdxmesh="volcanic_caldera_01_mesh"
 	count=0
-	transform=""}
+}
