@@ -1,6 +1,6 @@
-﻿mayan = {
-	#Maya
-	color = hsv { 0 0.91 0.55 }
+capachan = {
+	#West Mexico Shaft Tomb culture
+	color = hsv { 0 0.28 0.77 }
 	
 	primary = archers
 	second = chariots
@@ -64,10 +64,11 @@
 	}
 	
 	culture = {
-		peten = {}
-		yucatec = {}
-		huastec = {}
-		highland = {}
+		teuchitlan = {}
+		tuxcacuesco = {}
+		tabachines = {}
+		openo = {}
+		capacha = {}
 	}
 	
 	barbarian_names = {

@@ -1,6 +1,6 @@
-﻿mayan = {
-	#Maya
-	color = hsv { 0 0.91 0.55 }
+﻿popotecan = {
+	#Popoluca/Mixtec/Zapotec
+	color = hsv { 0 0.54 0.98 }
 	
 	primary = archers
 	second = chariots
@@ -64,10 +64,13 @@
 	}
 	
 	culture = {
-		peten = {}
-		yucatec = {}
-		huastec = {}
-		highland = {}
+		zapotec = {}
+		mixtec = {}
+		cuicatec = {}
+		popoloca = {}
+		chatino = {}
+		amuzgo = {}
+		mazatec = {}
 	}
 	
 	barbarian_names = {

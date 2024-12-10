@@ -1,6 +1,6 @@
-﻿mayan = {
-	#Maya
-	color = hsv { 0 0.91 0.55 }
+soconusco = {
+	#Xinan/Lencan/Izapan
+	color = hsv { 0 0.82 0.55 }
 	
 	primary = archers
 	second = chariots
@@ -64,10 +64,10 @@
 	}
 	
 	culture = {
-		peten = {}
-		yucatec = {}
-		huastec = {}
-		highland = {}
+		chalchuapa = {}
+		cotzumalhuapa = {}
+		lencan = {}
+		izapa = {}
 	}
 	
 	barbarian_names = {

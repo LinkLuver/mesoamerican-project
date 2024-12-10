@@ -1,6 +1,6 @@
-﻿mayan = {
-	#Maya
-	color = hsv { 0 0.91 0.55 }
+totozoquean = {
+	#Totozoque
+	color = hsv { 0 0.51 0.25 }
 	
 	primary = archers
 	second = chariots
@@ -64,10 +64,13 @@
 	}
 	
 	culture = {
-		peten = {}
-		yucatan = {}
-		huastec = {}
-		highland = {}
+		olmec = {}
+		zoque = {}
+		mixe = {}
+		totonoac = {}
+		huave = {}
+		soconusco = {}
+		chitimacha = {}
 	}
 	
 	barbarian_names = {
