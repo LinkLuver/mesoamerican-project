@@ -143434,7 +143434,7 @@
         amount = 1
     }
 }
-11954={ # Djanet
+11954={ # Teotihuacan
     terrain = "plains"
     culture = "peten"
     religion = "mayan_pantheon"
