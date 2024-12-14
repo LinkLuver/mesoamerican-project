@@ -26,22 +26,22 @@ totozoquean = {
 		Aguateca.Aguateca.Aguateci.Aguatecan
 		Bonampak.Bonampak.Bonampaki.Bonampakan
 		Calakmul.Calakmul.Calakmuli.Calakmulan
-		Cancuén.Cancuén.Cancuéni.Cancuénan
+		Cancuen.Cancuen.Cancueni.Cancuenan
 		Caracol.Caracol.Caracoli.Caracolan
 		El_Cayo.El_Cayo.El_Cayi.El_Cayan
 		Chinikiha.Chinikiha.Chinikihi.Chinikihan
-		Cobá.Cobá.Cobái.Cobán
-		Copán.Copán.Copáni.Copánan
+		Coba.Coba.Cobai.Coban
+		Copan.Copan.Copani.Copanan
 		La_Corona.La_Corona.La_Coroni.La_Coronan
 		Dos_Pilas.Dos_Pilas.Dos_Pili.Dos_Pilan
 		Ekʼ_Balam.Ekʼ_Balam.Ekʼ_Balami.Ekʼ_Balaman
-		Edzná.Edzná.Edznái.Edznán
+		Edzna.Edzna.Edznai.Edznan
 		Holmul.Holmul.Holmuli.Holmulan
 		Ixkun.Ixkun.Ixkuni.Ixkunan
 		Ixtutz.Ixtutz.Ixtutzi.Ixtutzan
 		Lacanha.Lacanha.Lacanhai.Lacanhan
 		Machaquila.Machaquila.Machaquili.Machaquilan
-		Motul_de_San_José.Motul_de_San_José.Motul_de_San_Joséi.Motul_de_San_Joséan
+		Motul_de_San_Jose.Motul_de_San_Jose.Motul_de_San_Josei.Motul_de_San_Josean
 		Naranjo.Naranjo.Naranji.Naranjan
 		Palenque.Palenque.Palenqui.Palenquan
 		El_Palma.El_Palma.El_Palmi.El_Palman
@@ -49,15 +49,15 @@ totozoquean = {
 		Piedras_Negras.Piedras_Negras.Piedras_Negri.Piedras_Negran
 		Pomona.Pomona.Pomonai.Pomonan
 		Pusilha.Pusilha.Pusilhi.Pusilhan
-		Quiriguá.Quiriguá.Quiriguái.Quiriguán
+		Quirigua.Quirigua.Quiriguai.Quiriguan
 		Sak_Tzʼi.Sak_Tzʼi.Sak_Tzʼii.Sak_Tzʼian
 		Seibal.Seibal.Seibali.Seibalan
 		Tamarindito.Tamarindito.Tamarinditi.Tamarinditan
 		Tikal.Tikal.Tikali.Tikalan
-		Toniná.Toniná.Toninái.Toninán
+		Tonina.Tonina.Toninai.Toninan
 		Ucanal.Ucanal.Ucanali.Ucanalan
 		Xultun.Xultun.Xultuni.Xultunan
-		Yaxchilán.Yaxchilán.Yaxchiláni.Yaxchilánan
+		Yaxchilan.Yaxchilan.Yaxchilani.Yaxchilanan
 		Yaxha.Yaxha.Yaxhai.Yaxhaan
 		Yoʼokop.Yoʼokop.Yoʼokopi.Yoʼokopan
 		Yootz.Yootz.Yootzi.Yootzan
