@@ -1,4 +1,4 @@
-soconusco = {
+﻿soconusco = {
 	#Xincan/Lencan/Izapan
 	color = hsv { 0 0.82 0.55 }
 	

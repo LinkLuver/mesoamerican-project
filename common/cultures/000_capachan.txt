@@ -1,4 +1,4 @@
-capachan = {
+﻿capachan = {
 	#West Mexico Shaft Tomb culture
 	color = hsv { 0 0.28 0.77 }
 	

@@ -1,4 +1,4 @@
-totozoquean = {
+﻿totozoquean = {
 	#Totozoque
 	color = hsv { 0 0.51 0.25 }
 	
