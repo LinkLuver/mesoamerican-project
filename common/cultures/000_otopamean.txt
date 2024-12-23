@@ -34,7 +34,7 @@
 		Copan.Copan.Copani.Copanan
 		La_Corona.La_Corona.La_Coroni.La_Coronan
 		Dos_Pilas.Dos_Pilas.Dos_Pili.Dos_Pilan
-		Ekʼ_Balam.Ekʼ_Balam.Ekʼ_Balami.Ekʼ_Balaman
+		Ek_balam.Ek_balam.Ek_balami.Ek_balaman
 		Edzna.Edzna.Edznai.Edznan
 		Holmul.Holmul.Holmuli.Holmulan
 		Ixkun.Ixkun.Ixkuni.Ixkunan
@@ -45,12 +45,12 @@
 		Naranjo.Naranjo.Naranji.Naranjan
 		Palenque.Palenque.Palenqui.Palenquan
 		El_Palma.El_Palma.El_Palmi.El_Palman
-		El_Perú.El_Perú.El_Perúi.El_Perúan
+		El_peru.El_peru.El_perui.El_peruan
 		Piedras_Negras.Piedras_Negras.Piedras_Negri.Piedras_Negran
 		Pomona.Pomona.Pomonai.Pomonan
 		Pusilha.Pusilha.Pusilhi.Pusilhan
 		Quirigua.Quirigua.Quiriguai.Quiriguan
-		Sak_Tzʼi.Sak_Tzʼi.Sak_Tzʼii.Sak_Tzʼian
+		Sak_tzi.Sak_tzi.Sak_tzii.Sak_tzian
 		Seibal.Seibal.Seibali.Seibalan
 		Tamarindito.Tamarindito.Tamarinditi.Tamarinditan
 		Tikal.Tikal.Tikali.Tikalan
@@ -59,7 +59,7 @@
 		Xultun.Xultun.Xultuni.Xultunan
 		Yaxchilan.Yaxchilan.Yaxchilani.Yaxchilanan
 		Yaxha.Yaxha.Yaxhai.Yaxhaan
-		Yoʼokop.Yoʼokop.Yoʼokopi.Yoʼokopan
+		Yo_okop.Yo_okop.Yo_okopi.Yo_okopan
 		Yootz.Yootz.Yootzi.Yootzan
 	}
 	

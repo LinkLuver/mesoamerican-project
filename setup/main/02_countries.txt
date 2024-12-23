@@ -1,18 +1,20 @@
 country = {
 	countries = {
 		TIK = {
+			family = 0
 			government = aristocratic_monarchy
 			primary_culture = peten
-			religion = maya_pantheon
+			religion = mayan_pantheon
 			capital = 1
 
-			own_countrol_core = {
+			own_countrol_core =  {
 				1
 			}
 		}
 	}
 #	countries = {
 #		CAL = {
+#			family = 1
 #			government = aristocratic_monarchy
 #			primary_culture = peten
 #			religion = mayan_pantheon
