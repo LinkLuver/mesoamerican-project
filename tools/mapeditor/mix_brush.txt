@@ -108,6 +108,54 @@
 			}
 		}
 
+		Sample={
+			Name="Sample from 793, 937"
+			Materials={
+				Material={
+					MaterialId="hills_01"
+					Value=240
+				}
+
+				Material={
+					MaterialId="forest_pine_01"
+					Value=15
+				}
+
+			}
+		}
+
+		Sample={
+			Name="Sample from 796, 935"
+			Materials={
+				Material={
+					MaterialId="beach_02"
+					Value=252
+				}
+
+				Material={
+					MaterialId="northern_plains_01"
+					Value=3
+				}
+
+			}
+		}
+
+		Sample={
+			Name="Sample from 794, 934"
+			Materials={
+				Material={
+					MaterialId="beach_02"
+					Value=252
+				}
+
+				Material={
+					MaterialId="northern_plains_01"
+					Value=3
+				}
+
+			}
+		}
+
 	}
 }
 

@@ -48526,11 +48526,11 @@
         amount = 1
     }
 }
-4045={ # Djanet
-    terrain = "plains"
+4045={ # Tse-whit-zen
+    terrain = "forest"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "fish"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
