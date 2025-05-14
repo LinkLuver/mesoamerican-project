@@ -2831,10 +2831,10 @@
     }
 }
 237={ # Djanet
-    terrain = "plains"
+    terrain = "forest"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "turkeys"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -2843,10 +2843,10 @@
     }
 }
 238={ # Djanet
-    terrain = "plains"
+    terrain = "forest"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "wood"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -2855,7 +2855,7 @@
     }
 }
 239={ # Djanet
-    terrain = "plains"
+    terrain = "forest"
     culture = "peten"
     religion = "mayan_pantheon"
     trade_goods = "maize"
@@ -2870,7 +2870,7 @@
     terrain = "plains"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "fish"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -3911,10 +3911,10 @@
     }
 }
 327={ # Djanet
-    terrain = "plains"
+    terrain = "farmland"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "cloth"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -3935,7 +3935,7 @@
     }
 }
 329={ # Djanet
-    terrain = "plains"
+    terrain = "farmland"
     culture = "peten"
     religion = "mayan_pantheon"
     trade_goods = "maize"
@@ -15635,10 +15635,10 @@
     }
 }
 1304={ # Djanet
-    terrain = "plains"
+    terrain = "hills"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "base_metals"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -15647,10 +15647,10 @@
     }
 }
 1305={ # Djanet
-    terrain = "plains"
+    terrain = "hills"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "precious_metals"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -15658,11 +15658,11 @@
         amount = 1
     }
 }
-1306={ # Djanet
-    terrain = "plains"
+1306={ # Misaabe
+    terrain = "hills"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "base_metals"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -17726,7 +17726,7 @@
     terrain = "plains"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "hallucinogenics"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -21014,7 +21014,7 @@
     terrain = "plains"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "buffalo"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -21026,7 +21026,7 @@
     terrain = "plains"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "stone"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -21038,7 +21038,7 @@
     terrain = "plains"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "furs"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -21050,7 +21050,7 @@
     terrain = "plains"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "wild_game"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -22870,8 +22870,8 @@
         amount = 1
     }
 }
-1907={ # Djanet
-    terrain = "plains"
+1907={ # Washecha
+    terrain = "farmland"
     culture = "peten"
     religion = "mayan_pantheon"
     trade_goods = "maize"
@@ -22910,7 +22910,7 @@
     terrain = "plains"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "tubers"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -32507,10 +32507,10 @@
     }
 }
 2710={ # Djanet
-    terrain = "plains"
+    terrain = "marsh"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "rice"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -32519,10 +32519,10 @@
     }
 }
 2711={ # Djanet
-    terrain = "plains"
+    terrain = "hills"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "clay"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -32531,10 +32531,10 @@
     }
 }
 2712={ # Djanet
-    terrain = "plains"
+    terrain = "marsh"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "fish"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -32543,10 +32543,10 @@
     }
 }
 2713={ # Djanet
-    terrain = "plains"
+    terrain = "hills"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "stone"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -42647,10 +42647,10 @@
     }
 }
 3555={ # Djanet
-    terrain = "plains"
+    terrain = "forest"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "beads"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -42659,10 +42659,10 @@
     }
 }
 3556={ # Djanet
-    terrain = "plains"
+    terrain = "forest"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "wood"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -42671,10 +42671,10 @@
     }
 }
 3557={ # Djanet
-    terrain = "plains"
+    terrain = "forest"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "turkeys"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -42684,9 +42684,9 @@
 }
 3558={ # Djanet
     terrain = "plains"
-    culture = "peten"
+    culture = "forest"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "fish"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -47231,10 +47231,10 @@
     }
 }
 3937={ # Djanet
-    terrain = "plains"
+    terrain = "marsh"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "wood"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -47243,10 +47243,10 @@
     }
 }
 3938={ # Djanet
-    terrain = "plains"
+    terrain = "marsh"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "wood"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -47255,10 +47255,10 @@
     }
 }
 3939={ # Djanet
-    terrain = "plains"
+    terrain = "marsh"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "antlers"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -68087,10 +68087,10 @@
     }
 }
 5675={ # Djanet
-    terrain = "plains"
+    terrain = "marsh"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "furs"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -68099,10 +68099,10 @@
     }
 }
 5676={ # Djanet
-    terrain = "plains"
+    terrain = "forest"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "buffalo"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -84887,10 +84887,10 @@
     }
 }
 7075={ # Djanet
-    terrain = "plains"
+    terrain = "forest"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "stone"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -84914,7 +84914,7 @@
     terrain = "plains"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "leather"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -88102,11 +88102,11 @@
         amount = 1
     }
 }
-7343={ # Djanet
+7343={ # Psin
     terrain = "plains"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "rice"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -88115,10 +88115,10 @@
     }
 }
 7344={ # Djanet
-    terrain = "plains"
+    terrain = "forest"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "wood"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -89399,10 +89399,10 @@
     }
 }
 7451={ # Djanet
-    terrain = "plains"
+    terrain = "marsh"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "rice"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -89411,10 +89411,10 @@
     }
 }
 7452={ # Djanet
-    terrain = "plains"
+    terrain = "marsh"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "cloths"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -89423,10 +89423,10 @@
     }
 }
 7453={ # Djanet
-    terrain = "plains"
+    terrain = "marsh"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "rice"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -89435,10 +89435,10 @@
     }
 }
 7454={ # Djanet
-    terrain = "plains"
+    terrain = "forest"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "fur"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -89447,10 +89447,10 @@
     }
 }
 7455={ # Djanet
-    terrain = "plains"
+    terrain = "marsh"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "wild_game"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -89459,10 +89459,10 @@
     }
 }
 7456={ # Djanet
-    terrain = "plains"
+    terrain = "marsh"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "fish"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -96274,11 +96274,11 @@
         amount = 1
     }
 }
-8024={ # Djanet
-    terrain = "plains"
+8024={ # Bdote
+    terrain = "flood_plain"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "flowers"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -96286,11 +96286,11 @@
         amount = 1
     }
 }
-8025={ # Djanet
-    terrain = "plains"
+8025={ # Mnihaha
+    terrain = "farmland"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "beads"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -96302,7 +96302,7 @@
     terrain = "plains"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "earthenware"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -97790,7 +97790,7 @@
     terrain = "plains"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "dogs"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -99659,10 +99659,10 @@
     }
 }
 8306={ # Djanet
-    terrain = "plains"
+    terrain = "marsh"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "wood"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -99671,10 +99671,10 @@
     }
 }
 8307={ # Djanet
-    terrain = "plains"
+    terrain = "marsh"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "clay"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -99683,10 +99683,10 @@
     }
 }
 8308={ # Djanet
-    terrain = "plains"
+    terrain = "forest"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "turkeys"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -100463,10 +100463,10 @@
     }
 }
 8373={ # Djanet
-    terrain = "plains"
+    terrain = "marsh"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "wood"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -100478,7 +100478,7 @@
     terrain = "plains"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "buffalo"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -100847,10 +100847,10 @@
     }
 }
 8405={ # Djanet
-    terrain = "plains"
+    terrain = "farmland"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "turkeys"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -100862,7 +100862,7 @@
     terrain = "plains"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "tubers"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -100874,7 +100874,7 @@
     terrain = "plains"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "wild_game"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -105023,10 +105023,10 @@
     }
 }
 8753={ # Djanet
-    terrain = "plains"
+    terrain = "marsh"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "skins"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -112679,10 +112679,10 @@
     }
 }
 9391={ # Djanet
-    terrain = "plains"
+    terrain = "forest"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "maize"
+    trade_goods = "amber"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"

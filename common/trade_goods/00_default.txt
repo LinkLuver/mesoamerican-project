@@ -145,17 +145,17 @@ flowers = { #Flowers
 	}
 	color = hsv { 0.8 0.7 0.4 }
 }
-flowers = { #Flowers
-	category = 1
-	gold = 0.25
-	province = {
-		local_tax_modifier = 0.02
-	}
-	country = {
-		global_pop_happiness = happiness_small_svalue
-	}
-	color = hsv { 0.8 0.7 0.4 }
-}
+#lowers = { #Flowers
+	#category = 1
+	#gold = 0.25
+	#province = {
+		#local_tax_modifier = 0.02
+	#}
+	#country = {
+		#global_pop_happiness = happiness_small_svalue
+	#}
+	#color = hsv { 0.8 0.7 0.4 }
+#}
 
 cacti = { #Cacti
 	category = 1
@@ -443,4 +443,20 @@ stucco = { #Stucco
 		build_cost_modifier = -0.05
 	}
 	color = hsv { 0.7 0.3 0.2 }
+}
+
+rice = {
+	category = 1
+
+	gold = 0.2
+	
+	province = { 
+		local_monthly_food = 7
+	}
+	
+	country = { 
+		global_monthly_food_modifier = 0.05
+	}
+	
+	color = rgb { 252 240 31 }
 }
