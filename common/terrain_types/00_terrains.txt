@@ -173,3 +173,15 @@ riverine_terrain = {
 impassable_terrain = {
 	combat_width = 10
 }
+
+# NEW 
+
+prairie = {
+	combat_width = 40
+	
+	color = { 1.5 0.5 0.56 }
+	modifier = {
+		local_monthly_food = 5
+	}
+}
+

@@ -433,17 +433,17 @@ clay = { #Clay
 	color = hsv { 0.4 0.2 0.6 }
 }
 
-stucco = { #Stucco
-	category = 5
-	gold = 0.25
-	province = {
-		slaves_happiness = happiness_small_svalue
-	}
-	country = {
-		build_cost_modifier = -0.05
-	}
-	color = hsv { 0.7 0.3 0.2 }
-}
+#stucco = { #Stucco
+	#category = 5
+	#gold = 0.25
+	#province = {
+		#slaves_happiness = happiness_small_svalue
+	#}
+	#country = {
+		#build_cost_modifier = -0.05
+	#}
+	#color = hsv { 0.7 0.3 0.2 }
+#}
 
 rice = {
 	category = 1
@@ -451,11 +451,11 @@ rice = {
 	gold = 0.2
 	
 	province = { 
-		local_monthly_food = 7
+		local_monthly_food = 5
 	}
 	
 	country = { 
-		global_monthly_food_modifier = 0.05
+		global_monthly_food_modifier = 0.02
 	}
 	
 	color = rgb { 252 240 31 }
