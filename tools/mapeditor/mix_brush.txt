@@ -131,12 +131,12 @@
 			Materials={
 				Material={
 					MaterialId="forest_leaf_01"
-					Value=232
+					Value=218
 				}
 
 				Material={
 					MaterialId="wetlands_02"
-					Value=13
+					Value=12
 				}
 
 				Material={
@@ -151,7 +151,7 @@
 
 				Material={
 					MaterialId="beach_02"
-					Value=2
+					Value=17
 				}
 
 				Material={
@@ -167,6 +167,63 @@
 				Material={
 					MaterialId="medi_grass_01"
 					Value=1
+				}
+
+			}
+		}
+
+		Sample={
+			Name="Sample from 1345, 707"
+			Materials={
+				Material={
+					MaterialId="plains_01_noisy"
+					Value=8
+				}
+
+				Material={
+					MaterialId="hills_01"
+					Value=28
+				}
+
+				Material={
+					MaterialId="northern_plains_01"
+					Value=27
+				}
+
+				Material={
+					MaterialId="forest_leaf_01"
+					Value=144
+				}
+
+				Material={
+					MaterialId="plains_01"
+					Value=48
+				}
+
+			}
+		}
+
+		Sample={
+			Name="Sample from 1127, 627"
+			Materials={
+				Material={
+					MaterialId="plains_01_rough"
+					Value=45
+				}
+
+				Material={
+					MaterialId="medi_grass_01"
+					Value=24
+				}
+
+				Material={
+					MaterialId="hills_01"
+					Value=24
+				}
+
+				Material={
+					MaterialId="india_farmlands"
+					Value=162
 				}
 
 			}
