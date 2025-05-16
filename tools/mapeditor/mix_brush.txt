@@ -67,12 +67,6 @@
 		}
 
 		Sample={
-			Name="Plains"
-			Materials={
-			}
-		}
-
-		Sample={
 			Name="Snowy Plains"
 			Materials={
 			}
@@ -91,167 +85,42 @@
 		}
 
 		Sample={
-			Name="Sample from 620, 518"
+			Name="Sample from 1628, 926"
 			Materials={
-				Material={
-					MaterialId="snow"
-					Value=220
-				}
-
-				Material={
-					MaterialId="mountain_02_c_snow"
-					Value=16
-				}
-
-				Material={
-					MaterialId="northern_plains_01"
-					Value=18
-				}
-
-				Material={
-					MaterialId="mountains"
-					Value=1
-				}
-
-			}
-		}
-
-		Sample={
-			Name="Sample from 814, 626"
-			Materials={
-				Material={
-					MaterialId="drylands_01_cracked"
-					Value=1
-				}
-
-				Material={
-					MaterialId="drylands_01_grassy"
-					Value=69
-				}
-
-				Material={
-					MaterialId="desert_02"
-					Value=72
-				}
-
-				Material={
-					MaterialId="northern_plains_01"
-					Value=113
-				}
-
-			}
-		}
-
-		Sample={
-			Name="Sample from 867, 664"
-			Materials={
-				Material={
-					MaterialId="drylands_01_grassy"
-					Value=153
-				}
-
-				Material={
-					MaterialId="steppe_grass"
-					Value=63
-				}
-
-				Material={
-					MaterialId="steppe_bushes"
-					Value=31
-				}
-
-				Material={
-					MaterialId="beach_02"
-					Value=6
-				}
-
-				Material={
-					MaterialId="northern_plains_01"
-					Value=2
-				}
-
-			}
-		}
-
-		Sample={
-			Name="Sample from 1349, 680"
-			Materials={
-				Material={
-					MaterialId="wetlands_02"
-					Value=112
-				}
-
 				Material={
 					MaterialId="forest_jungle_01"
-					Value=143
+					Value=108
+				}
+
+				Material={
+					MaterialId="wetlands_02_mud"
+					Value=147
 				}
 
 			}
 		}
 
 		Sample={
-			Name="Sample from 1337, 676"
+			Name="Sample from 1419, 1015"
 			Materials={
 				Material={
 					MaterialId="plains_01"
-					Value=61
-				}
-
-				Material={
-					MaterialId="wetlands_02"
-					Value=134
-				}
-
-				Material={
-					MaterialId="forest_jungle_01"
-					Value=60
-				}
-
-			}
-		}
-
-		Sample={
-			Name="Sample from 835, 880"
-			Materials={
-				Material={
-					MaterialId="wetlands_02"
-					Value=164
-				}
-
-				Material={
-					MaterialId="plains_01"
-					Value=84
-				}
-
-				Material={
-					MaterialId="plains_01_noisy"
-					Value=7
-				}
-
-			}
-		}
-
-		Sample={
-			Name="Sample from 854, 885"
-			Materials={
-				Material={
-					MaterialId="plains_01_rough"
-					Value=64
-				}
-
-				Material={
-					MaterialId="plains_01_noisy"
-					Value=33
-				}
-
-				Material={
-					MaterialId="medi_grass_01"
-					Value=32
+					Value=86
 				}
 
 				Material={
 					MaterialId="farmland_01"
-					Value=126
+					Value=27
+				}
+
+				Material={
+					MaterialId="forest_leaf_01"
+					Value=83
+				}
+
+				Material={
+					MaterialId="wetlands_02_mud"
+					Value=59
 				}
 
 			}
