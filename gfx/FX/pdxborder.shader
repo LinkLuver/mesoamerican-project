@@ -46,7 +46,7 @@ VertexShader =
 				float3 position = Input.Position * Scale;
 				position.y = lerp( position.y, FlatMapHeight, FlatMapLerp );
 				position.y += vHeightOffset;
-				position.y -= 0.1;
+				position.y -= 0.5;
 				
 				Out.WorldSpacePos = position;
 				Out.Position = FixProjectionAndMul( ViewProjectionMatrix, float4( position, 1.0 ) );
