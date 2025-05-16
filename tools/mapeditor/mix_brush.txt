@@ -126,6 +126,52 @@
 			}
 		}
 
+		Sample={
+			Name="Sample from 1704, 629"
+			Materials={
+				Material={
+					MaterialId="forest_leaf_01"
+					Value=232
+				}
+
+				Material={
+					MaterialId="wetlands_02"
+					Value=13
+				}
+
+				Material={
+					MaterialId="plains_01_noisy"
+					Value=2
+				}
+
+				Material={
+					MaterialId="plains_01"
+					Value=2
+				}
+
+				Material={
+					MaterialId="beach_02"
+					Value=2
+				}
+
+				Material={
+					MaterialId="northern_plains_01"
+					Value=2
+				}
+
+				Material={
+					MaterialId="snow"
+					Value=1
+				}
+
+				Material={
+					MaterialId="medi_grass_01"
+					Value=1
+				}
+
+			}
+		}
+
 	}
 }
 
