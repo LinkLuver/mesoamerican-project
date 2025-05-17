@@ -146,7 +146,7 @@ flowers = { #Flowers
 	color = hsv { 0.8 0.7 0.4 }
 }
 #lowers = { #Flowers
-	#category = 1
+	#
 	#gold = 0.25
 	#province = {
 		#local_tax_modifier = 0.02
@@ -434,7 +434,7 @@ clay = { #Clay
 }
 
 #stucco = { #Stucco
-	#category = 5
+	#
 	#gold = 0.25
 	#province = {
 		#slaves_happiness = happiness_small_svalue

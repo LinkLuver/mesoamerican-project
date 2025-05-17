@@ -8,7 +8,7 @@
  TRADE_GOODS_CATEGORY_5:0 "@tribesmen! Slaves & Tribesmen"
  TRADE_GOODS_CATEGORY_6:0 "Other"
 
- #Strategic
+ #Strategic (Category 0)
  obsidian:0 "Obsidian"
  obsidianDESC:0 "The presence of obsidian use defines many cultures. Renowned for its sharpness and precision, obsidian is unparalleled as a material for tools and weaponry, far surpassing many alternatives in cutting ability despite its fragility."
  wood:0 "Wood"
@@ -25,13 +25,11 @@
  poisonDESC:0 "Dipping an arrow point or a dart in poison can massively increase its fatality if even so much as a scratch finds itself on a body. Made from frogs, lizards, or most likely, curare."
  stone:0 "Stone"
  stoneDESC:0 "Quartz, flint, novaculite, and other stones were used in tandem with sharper materials like obsidian, or handled with wood, it makes for an effective and cheap source of weaponry."
- #Food
+ #Food (Category 1)
  maize:0 "Maize"
  maizeDESC:0 "Maize represents a crop central to civilization itself, often associated with gods, prosperity, myths, and development, especially in Mesoamerica."
  fish:0 "Fish"
  fishDESC:0 "Fish provide a staple part of the diet and economy of every coastal civilization in the world."
- spices:0 "Spices"
- spicesDESC:0 "Primarily used as food additives, the many herbs which comprise the spice trade command a variable price depending on their provenance."
  tubers:0 "Tubers"
  tubersDESC:0 "Potatoes, carrots, parsnips, turnips, beetroot, sweetpotato, and taro are gathered by foragers and subsistence farmers across the lands."
  beans:0 "Beans"
@@ -42,7 +40,9 @@
  turkeysDESC:0 "While domesticated livestock didn't exist for the most part, the exception was the turkey. The mix of red and white meat, as well as side-products like feathers and fertilizer make it quite a useful bird indeed."
  flowers:0 "Flowers"
  flowersDESC:0 "Considered a food of the gods by some, flowers, especially sunflowers, were used in many ways including creating flour, mush, and bread."
- #Nobles
+ rice:0 "Wild Rice"
+ riceDESC:0 "Wild rice is gathered from shallow lakes and slow-moving streams. Though not widely cultivated, it was harvested through time-honored methods and held both spiritual and subsistence importance."
+ #Nobles (Category 2)
  amate:0 "Amate"
  amateDESC:0 "Most of the Mesoamerican world uses stone carvings, murals, and codices to store the written word. Amate, however, uniquely produced from the bark of fig and mulberry trees, offers much greater flexibility and ease of use for recording and preserving information."
  cacao:0 "Cacao"
@@ -57,7 +57,9 @@
  incenseDESC:0 "The term 'Incense' covers an array of rare, exotic substances which are primarily used for religious purposes."
  limestone:0 "Limestone"
  limestone_desc:0 "While other stones may be used for basic construction, limestone stands out for its versatility and abundance. Favored for fine civic buildings, temples, and enduring defensive structures, its ease of carving and durability make it an essential material in architecture."
- #Citizens
+ spices:0 "Spices"
+ spicesDESC:0 "Primarily used as food additives, the many herbs which comprise the spice trade command a variable price depending on their provenance."
+ #Citizens (Category 3)
  precious_metals:0 "Precious Metals"
  precious_metalsDESC:0 "Gold and silver have been regarded as a measure of relative value since the minting of coins began. The history of gold as a commodity is deeply intertwined with its use in religious and mythological imagery."
  jade:0 "Jade"
@@ -74,15 +76,13 @@
  cactiDESC:0 "Dotting the otherwise barren desertlands, and used for arts, medicines, food, and more, the humble cactus was an important cultural and spiritual good."
  beads:0 "Beads"
  beadsDESC:0 "Crafted from materials like stone, shell, bone, and clay, beads held great cultural and symbolic significance in many Indigenous societies. They were used as adornments, currency, and in ceremonial contexts, often representing wealth, status, or spiritual beliefs."
- #Freemen
+ #Freemen (Category 4)
  pulque:0 "Pulque"
  pulqueDESC:0 "Pulque is produced from the fermented sap of agave plants and has myriad uses in recreational, religious, and cultural traditions. The pulque trade has historically been an important part of Mesoamerican economies."
  base_metals:0 "Base Metals"
  base_metalsDESC:0 "Copper, Tin and Lead, whilst unsuitable for military purposes, have long been used in alloying and decoration. Although used ubiquitously, the relative geographical scarcity of these metals results in them commanding high prices throughout the world."
  salt:0 "Salt"
  saltDESC:0 "Greatly valued as a food additive and preservation agent, salt is in such high demand that it often serves as a parallel currency."
- leather:0 "Leather"
- leatherDESC:0 "Tanned hides have numerous applications in domestic and military life. Early shields were often leather clad, softening the blow of any incoming strikes."
  earthware:0 "Earthenware"
  earthwareDESC:0 "The production of earthenware has been a defining activity of human civilization since the discovery of fire. Earthenware encompasses practical utensils such as bowls and jugs, as well as statues, urns and other decorative items."
  maple:0 "Maple"
@@ -93,7 +93,7 @@
  cottonDESC:0 "Rooted in the fertile lands of the Americas, the cultivation of cotton has long been a cornerstone of agriculture. This versatile fabric, valued for its softness and durability, is widely sought after, bridging practicality and luxury."
  tobacco:0 "Tobacco"
  tobaccoDESC:0 "Eastern americans are fond of this plant, smoking it, and using it to sign treaties or cerimonies. It is readily accepted as tradegood."
- #Slaves and Tribesmen
+ #Slaves and Tribesmen (Category 5)
  cloth:0 "Cloth"
  clothDESC:0 "Cloth can be produced from numerous plant or animal products, and is found, in varying quality, at markets throughout the known world."
  wild_game:0 "Wild Game"
