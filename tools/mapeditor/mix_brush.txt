@@ -89,27 +89,27 @@
 			Materials={
 				Material={
 					MaterialId="northern_plains_01"
-					Value=82
+					Value=42
 				}
 
 				Material={
 					MaterialId="hills_01"
-					Value=69
+					Value=34
 				}
 
 				Material={
 					MaterialId="forest_leaf_01"
-					Value=39
+					Value=118
 				}
 
 				Material={
 					MaterialId="plains_01_noisy"
-					Value=36
+					Value=33
 				}
 
 				Material={
 					MaterialId="plains_01"
-					Value=29
+					Value=28
 				}
 
 			}
@@ -238,6 +238,129 @@
 				Material={
 					MaterialId="snow"
 					Value=1
+				}
+
+			}
+		}
+
+		Sample={
+			Name="Sample from 1963, 1113"
+			Materials={
+				Material={
+					MaterialId="northern_plains_01"
+					Value=56
+				}
+
+				Material={
+					MaterialId="hills_01"
+					Value=45
+				}
+
+				Material={
+					MaterialId="forest_leaf_01"
+					Value=95
+				}
+
+				Material={
+					MaterialId="plains_01_noisy"
+					Value=32
+				}
+
+				Material={
+					MaterialId="plains_01"
+					Value=27
+				}
+
+			}
+		}
+
+		Sample={
+			Name="Sample from 2007, 1159"
+			Materials={
+				Material={
+					MaterialId="forest_pine_01"
+					Value=28
+				}
+
+				Material={
+					MaterialId="wetlands_02"
+					Value=61
+				}
+
+				Material={
+					MaterialId="northern_plains_01"
+					Value=3
+				}
+
+				Material={
+					MaterialId="boulders_grassy_02"
+					Value=27
+				}
+
+				Material={
+					MaterialId="plains_01_noisy"
+					Value=27
+				}
+
+				Material={
+					MaterialId="plains_01"
+					Value=27
+				}
+
+				Material={
+					MaterialId="plains_01_dry_mud"
+					Value=27
+				}
+
+				Material={
+					MaterialId="forestfloor"
+					Value=1
+				}
+
+				Material={
+					MaterialId="medi_lumpy_grass"
+					Value=27
+				}
+
+				Material={
+					MaterialId="hills_01"
+					Value=27
+				}
+
+			}
+		}
+
+		Sample={
+			Name="Sample from 1760, 873"
+			Materials={
+				Material={
+					MaterialId="farmland_01"
+					Value=53
+				}
+
+				Material={
+					MaterialId="northern_plains_01"
+					Value=68
+				}
+
+				Material={
+					MaterialId="hills_01"
+					Value=51
+				}
+
+				Material={
+					MaterialId="forest_leaf_01"
+					Value=40
+				}
+
+				Material={
+					MaterialId="plains_01_noisy"
+					Value=24
+				}
+
+				Material={
+					MaterialId="plains_01"
+					Value=19
 				}
 
 			}
