@@ -85,282 +85,72 @@
 		}
 
 		Sample={
-			Name="Sample from 1978, 1113"
+			Name="Sample from 1244, 1094"
 			Materials={
-				Material={
-					MaterialId="northern_plains_01"
-					Value=42
-				}
-
-				Material={
-					MaterialId="hills_01"
-					Value=34
-				}
-
-				Material={
-					MaterialId="forest_leaf_01"
-					Value=118
-				}
-
-				Material={
-					MaterialId="plains_01_noisy"
-					Value=33
-				}
-
-				Material={
-					MaterialId="plains_01"
-					Value=28
-				}
-
-			}
-		}
-
-		Sample={
-			Name="Sample from 2024, 1145"
-			Materials={
-				Material={
-					MaterialId="wetlands_02"
-					Value=62
-				}
-
-				Material={
-					MaterialId="farmland_01"
-					Value=1
-				}
-
-				Material={
-					MaterialId="plains_01"
-					Value=45
-				}
-
-				Material={
-					MaterialId="forest_leaf_01"
-					Value=20
-				}
-
 				Material={
 					MaterialId="forest_pine_01"
-					Value=19
-				}
-
-				Material={
-					MaterialId="forestfloor"
-					Value=19
-				}
-
-				Material={
-					MaterialId="medi_lumpy_grass"
-					Value=53
-				}
-
-				Material={
-					MaterialId="plains_01_noisy"
-					Value=19
-				}
-
-				Material={
-					MaterialId="hills_01"
-					Value=17
-				}
-
-			}
-		}
-
-		Sample={
-			Name="Sample from 2014, 1140"
-			Materials={
-				Material={
-					MaterialId="northern_plains_01"
-					Value=86
-				}
-
-				Material={
-					MaterialId="hills_01"
-					Value=55
-				}
-
-				Material={
-					MaterialId="plains_01_noisy"
-					Value=30
+					Value=54
 				}
 
 				Material={
 					MaterialId="forest_leaf_01"
-					Value=30
+					Value=15
+				}
+
+				Material={
+					MaterialId="wetlands_02"
+					Value=8
 				}
 
 				Material={
 					MaterialId="plains_01"
-					Value=22
-				}
-
-				Material={
-					MaterialId="boulders_grassy_02"
-					Value=19
-				}
-
-				Material={
-					MaterialId="hills_01_rocks"
-					Value=10
-				}
-
-				Material={
-					MaterialId="plains_01_dry_mud"
-					Value=3
-				}
-
-			}
-		}
-
-		Sample={
-			Name="Sample from 2084, 1299"
-			Materials={
-				Material={
-					MaterialId="beach_02"
-					Value=118
-				}
-
-				Material={
-					MaterialId="boulders_grassy_02"
 					Value=73
 				}
 
 				Material={
-					MaterialId="beach_02_pebbles"
-					Value=46
-				}
-
-				Material={
-					MaterialId="boulders_grassy_01"
-					Value=17
-				}
-
-				Material={
-					MaterialId="snow"
-					Value=1
-				}
-
-			}
-		}
-
-		Sample={
-			Name="Sample from 1963, 1113"
-			Materials={
-				Material={
-					MaterialId="northern_plains_01"
-					Value=56
-				}
-
-				Material={
-					MaterialId="hills_01"
-					Value=45
-				}
-
-				Material={
-					MaterialId="forest_leaf_01"
-					Value=95
+					MaterialId="medi_lumpy_grass"
+					Value=8
 				}
 
 				Material={
 					MaterialId="plains_01_noisy"
-					Value=32
-				}
-
-				Material={
-					MaterialId="plains_01"
-					Value=27
-				}
-
-			}
-		}
-
-		Sample={
-			Name="Sample from 2007, 1159"
-			Materials={
-				Material={
-					MaterialId="forest_pine_01"
-					Value=28
-				}
-
-				Material={
-					MaterialId="wetlands_02"
-					Value=61
-				}
-
-				Material={
-					MaterialId="northern_plains_01"
-					Value=3
-				}
-
-				Material={
-					MaterialId="boulders_grassy_02"
-					Value=27
-				}
-
-				Material={
-					MaterialId="plains_01_noisy"
-					Value=27
-				}
-
-				Material={
-					MaterialId="plains_01"
-					Value=27
-				}
-
-				Material={
-					MaterialId="plains_01_dry_mud"
-					Value=27
+					Value=48
 				}
 
 				Material={
 					MaterialId="forestfloor"
-					Value=1
-				}
-
-				Material={
-					MaterialId="medi_lumpy_grass"
-					Value=27
+					Value=8
 				}
 
 				Material={
 					MaterialId="hills_01"
-					Value=27
+					Value=33
+				}
+
+				Material={
+					MaterialId="farmland_01"
+					Value=8
 				}
 
 			}
 		}
 
 		Sample={
-			Name="Sample from 1760, 873"
+			Name="Sample from 1201, 1309"
 			Materials={
 				Material={
-					MaterialId="farmland_01"
-					Value=53
+					MaterialId="beach_02"
+					Value=156
+				}
+
+				Material={
+					MaterialId="beach_02_pebbles"
+					Value=94
 				}
 
 				Material={
 					MaterialId="northern_plains_01"
-					Value=68
-				}
-
-				Material={
-					MaterialId="hills_01"
-					Value=51
-				}
-
-				Material={
-					MaterialId="forest_leaf_01"
-					Value=40
-				}
-
-				Material={
-					MaterialId="plains_01_noisy"
-					Value=24
-				}
-
-				Material={
-					MaterialId="plains_01"
-					Value=19
+					Value=5
 				}
 
 			}
