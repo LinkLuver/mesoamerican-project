@@ -13166,7 +13166,7 @@
     terrain = "forest"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "leather"
+    trade_goods = "skins"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -40898,7 +40898,7 @@
     terrain = "hills"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "leather"
+    trade_goods = "skins"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -75374,7 +75374,7 @@
     terrain = "forest"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "leather"
+    trade_goods = "skins"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -84914,7 +84914,7 @@
     terrain = "forest"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "leather"
+    trade_goods = "skins"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -97778,7 +97778,7 @@
     terrain = "forest"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "leather"
+    trade_goods = "skins"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
@@ -103754,7 +103754,7 @@
     terrain = "forest"
     culture = "peten"
     religion = "mayan_pantheon"
-    trade_goods = "leather"
+    trade_goods = "skins"
     civilization_value = 10
     barbarian_power = 0
     province_rank = "settlement"
