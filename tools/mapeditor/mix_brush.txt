@@ -395,6 +395,58 @@
 			}
 		}
 
+		Sample={
+			Name="Sample from 727, 1675"
+			Materials={
+				Material={
+					MaterialId="hills_01_rocks"
+					Value=52
+				}
+
+				Material={
+					MaterialId="rock_white"
+					Value=45
+				}
+
+				Material={
+					MaterialId="forest_pine_01"
+					Value=106
+				}
+
+				Material={
+					MaterialId="northern_plains_01"
+					Value=52
+				}
+
+			}
+		}
+
+		Sample={
+			Name="Sample from 801, 1575"
+			Materials={
+				Material={
+					MaterialId="forest_pine_01"
+					Value=68
+				}
+
+				Material={
+					MaterialId="northern_plains_01"
+					Value=118
+				}
+
+				Material={
+					MaterialId="hills_01_rocks"
+					Value=51
+				}
+
+				Material={
+					MaterialId="rock_white"
+					Value=18
+				}
+
+			}
+		}
+
 	}
 }
 
