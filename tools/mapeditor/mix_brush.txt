@@ -115,47 +115,47 @@
 			Materials={
 				Material={
 					MaterialId="farmland_01"
-					Value=71
+					Value=101
 				}
 
 				Material={
 					MaterialId="plains_01_rough"
-					Value=95
+					Value=79
 				}
 
 				Material={
 					MaterialId="hills_01"
-					Value=11
+					Value=10
 				}
 
 				Material={
 					MaterialId="medi_grass_01"
-					Value=11
+					Value=9
 				}
 
 				Material={
 					MaterialId="forest_leaf_01"
-					Value=11
+					Value=9
 				}
 
 				Material={
 					MaterialId="plains_01"
-					Value=10
+					Value=9
 				}
 
 				Material={
 					MaterialId="plains_01_noisy"
-					Value=10
+					Value=9
 				}
 
 				Material={
 					MaterialId="northern_plains_01"
-					Value=26
+					Value=20
 				}
 
 				Material={
 					MaterialId="india_farmlands"
-					Value=10
+					Value=9
 				}
 
 			}
@@ -244,27 +244,27 @@
 			Materials={
 				Material={
 					MaterialId="forest_leaf_01"
-					Value=222
+					Value=194
 				}
 
 				Material={
 					MaterialId="northern_plains_01"
-					Value=27
+					Value=41
 				}
 
 				Material={
 					MaterialId="plains_01_noisy"
-					Value=2
+					Value=7
 				}
 
 				Material={
 					MaterialId="plains_01"
-					Value=2
+					Value=7
 				}
 
 				Material={
 					MaterialId="snow"
-					Value=2
+					Value=6
 				}
 
 			}
@@ -322,6 +322,74 @@
 				Material={
 					MaterialId="northern_plains_01"
 					Value=14
+				}
+
+			}
+		}
+
+		Sample={
+			Name="Sample from 640, 1254"
+			Materials={
+				Material={
+					MaterialId="wetlands_02_mud"
+					Value=109
+				}
+
+				Material={
+					MaterialId="steppe_grass"
+					Value=94
+				}
+
+				Material={
+					MaterialId="drylands_01_grassy"
+					Value=33
+				}
+
+				Material={
+					MaterialId="forest_leaf_01"
+					Value=16
+				}
+
+				Material={
+					MaterialId="northern_plains_01"
+					Value=3
+				}
+
+			}
+		}
+
+		Sample={
+			Name="Sample from 490, 1950"
+			Materials={
+				Material={
+					MaterialId="northern_plains_01"
+					Value=139
+				}
+
+				Material={
+					MaterialId="steppe_grass"
+					Value=116
+				}
+
+			}
+		}
+
+		Sample={
+			Name="Sample from 385, 1571"
+			Materials={
+				Material={
+					MaterialId="northern_plains_01"
+					Value=97
+				}
+
+				Material={
+					MaterialId="hills_01_rocks_small"
+					Value=61
+				}
+
+				Material={
+					MaterialId="steppe_grass"
+					Value=97
 				}
 
 			}
