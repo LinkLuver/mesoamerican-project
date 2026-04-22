@@ -2,7 +2,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -249,7 +249,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1055,7 +1055,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1224,7 +1224,7 @@
 	terrain="farmland"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="shells"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -2277,7 +2277,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -2628,7 +2628,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -2914,7 +2914,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -4331,7 +4331,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -4929,7 +4929,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -5384,7 +5384,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -5683,7 +5683,7 @@
 	terrain="desert_hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -5826,7 +5826,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -6164,7 +6164,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -6216,7 +6216,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -6957,7 +6957,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -6983,7 +6983,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -7425,7 +7425,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -7724,7 +7724,7 @@
 	terrain="flood_plain"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -8283,7 +8283,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -8361,7 +8361,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -8478,7 +8478,7 @@
 	terrain="farmland"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -8803,7 +8803,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -8816,7 +8816,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -10012,7 +10012,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -10025,7 +10025,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -10922,7 +10922,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -11507,7 +11507,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -11598,7 +11598,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -11741,7 +11741,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -12443,7 +12443,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -12794,7 +12794,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -12807,7 +12807,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -13119,7 +13119,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -13574,7 +13574,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -13652,7 +13652,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -13808,7 +13808,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -14276,7 +14276,7 @@
 	terrain="mountain"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -16278,7 +16278,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -16525,7 +16525,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -17071,7 +17071,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -18072,7 +18072,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -18241,7 +18241,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -18280,7 +18280,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -18293,7 +18293,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -20308,7 +20308,7 @@
 	terrain="farmland"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -20321,7 +20321,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -20360,7 +20360,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -20867,7 +20867,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -20880,7 +20880,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -21660,7 +21660,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -21673,7 +21673,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -21686,7 +21686,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -21959,7 +21959,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -21972,7 +21972,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -22180,7 +22180,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -22193,7 +22193,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="dye"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -22388,7 +22388,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -22895,7 +22895,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -22947,7 +22947,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -22973,7 +22973,7 @@
 	terrain="mountain"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -22999,7 +22999,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -23844,7 +23844,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -23974,7 +23974,7 @@
 	terrain="farmland"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -24637,7 +24637,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -24650,7 +24650,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -24780,7 +24780,7 @@
 	terrain="farmland"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -25066,7 +25066,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -25222,7 +25222,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -26314,7 +26314,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -26340,7 +26340,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -26535,7 +26535,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -26548,7 +26548,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -26561,7 +26561,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -26834,7 +26834,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -27250,7 +27250,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -28173,7 +28173,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -29291,7 +29291,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -30045,7 +30045,7 @@
 	terrain="mountain"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -30058,7 +30058,7 @@
 	terrain="mountain"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -30071,7 +30071,7 @@
 	terrain="mountain"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -30591,7 +30591,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -31709,7 +31709,7 @@
 	terrain="farmland"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -31722,7 +31722,7 @@
 	terrain="farmland"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="dye"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -32541,7 +32541,7 @@
 	terrain="farmland"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -32645,7 +32645,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -33100,7 +33100,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -33113,7 +33113,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -33321,7 +33321,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -33347,7 +33347,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -35024,7 +35024,7 @@
 	terrain="flood_plain"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -35466,7 +35466,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -36129,7 +36129,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -36545,7 +36545,7 @@
 	terrain="marsh"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -36558,7 +36558,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -37117,7 +37117,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -37546,7 +37546,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -37793,7 +37793,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -39860,7 +39860,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -40250,7 +40250,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -42239,7 +42239,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -42694,7 +42694,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -43292,7 +43292,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -43318,7 +43318,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -43903,7 +43903,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -44800,7 +44800,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -45008,7 +45008,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -45034,7 +45034,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -45099,7 +45099,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -45138,7 +45138,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -45554,7 +45554,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -46009,7 +46009,7 @@
 	terrain="marsh"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -46399,7 +46399,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -46789,7 +46789,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -47764,7 +47764,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -47868,7 +47868,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -49051,7 +49051,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -49480,7 +49480,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -50208,7 +50208,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -50390,7 +50390,7 @@
 	terrain="marsh"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -51937,7 +51937,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -52171,7 +52171,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -52990,7 +52990,7 @@
 	terrain="farmland"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -54316,7 +54316,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -54524,7 +54524,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -57267,7 +57267,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -57280,7 +57280,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -57358,7 +57358,7 @@
 	terrain="desert_hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -58879,7 +58879,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -59906,7 +59906,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -59932,7 +59932,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -60010,7 +60010,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -60036,7 +60036,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -60140,7 +60140,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -60153,7 +60153,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -62129,7 +62129,7 @@
 	terrain="farmland"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -63299,7 +63299,7 @@
 	terrain="farmland"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -64287,7 +64287,7 @@
 	terrain="farmland"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -64300,7 +64300,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -64404,7 +64404,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -64794,7 +64794,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -65574,7 +65574,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -65587,7 +65587,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -65873,7 +65873,7 @@
 	terrain="farmland"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -67394,7 +67394,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -67667,7 +67667,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -67680,7 +67680,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -67693,7 +67693,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -68486,7 +68486,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -68551,7 +68551,7 @@
 	terrain="farmland"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -68837,7 +68837,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -69448,7 +69448,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -69994,7 +69994,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -70007,7 +70007,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -70020,7 +70020,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -70254,7 +70254,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -70956,7 +70956,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -71398,7 +71398,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -71554,7 +71554,7 @@
 	terrain="flood_plain"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -71567,7 +71567,7 @@
 	terrain="flood_plain"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -73023,7 +73023,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -73218,7 +73218,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -74011,7 +74011,7 @@
 	terrain="mountain"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -75792,7 +75792,7 @@
 	terrain="flood_plain"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -76078,7 +76078,7 @@
 	terrain="marsh"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -76104,7 +76104,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -76156,7 +76156,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -77300,7 +77300,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -77339,7 +77339,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -77482,7 +77482,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -79523,7 +79523,7 @@
 	terrain="mountain"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -79549,7 +79549,7 @@
 	terrain="mountain"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -79796,7 +79796,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -79913,7 +79913,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -79991,7 +79991,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -80888,7 +80888,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -81408,7 +81408,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -81421,7 +81421,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -81668,7 +81668,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -81746,7 +81746,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -81772,7 +81772,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -81785,7 +81785,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -82188,7 +82188,7 @@
 	terrain="flood_plain"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -82357,7 +82357,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -82903,7 +82903,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -83605,7 +83605,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -84138,7 +84138,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -84788,7 +84788,7 @@
 	terrain="mountain"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -84957,7 +84957,7 @@
 	terrain="farmland"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -85100,7 +85100,7 @@
 	terrain="marsh"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -85399,7 +85399,7 @@
 	terrain="marsh"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -85711,7 +85711,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -86738,7 +86738,7 @@
 	terrain="marsh"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -86933,7 +86933,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -87453,7 +87453,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -87817,7 +87817,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -87869,7 +87869,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -88350,7 +88350,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -89065,7 +89065,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -90378,7 +90378,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -90937,7 +90937,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -90950,7 +90950,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -90976,7 +90976,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -90989,7 +90989,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -91405,7 +91405,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -91678,7 +91678,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -92744,7 +92744,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -93082,7 +93082,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -93251,7 +93251,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -93264,7 +93264,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -93277,7 +93277,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -93303,7 +93303,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -93875,7 +93875,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -93901,7 +93901,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -93992,7 +93992,7 @@
 	terrain="farmland"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -95500,7 +95500,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -95565,7 +95565,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -96904,7 +96904,7 @@
 	terrain="marsh"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="wild_game"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -97450,7 +97450,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -97710,7 +97710,7 @@
 	terrain="flood_plain"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -99374,7 +99374,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -99920,7 +99920,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -99933,7 +99933,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -99946,7 +99946,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -100375,7 +100375,7 @@
 	terrain="farmland"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -100388,7 +100388,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -100635,7 +100635,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -100908,7 +100908,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -100934,7 +100934,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -101038,7 +101038,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -101051,7 +101051,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -101324,7 +101324,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -101532,7 +101532,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -102910,7 +102910,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -103599,7 +103599,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -103833,7 +103833,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -103846,7 +103846,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -103859,7 +103859,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -103872,7 +103872,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -103885,7 +103885,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -103898,7 +103898,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -104756,7 +104756,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -108097,7 +108097,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -108188,7 +108188,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -108201,7 +108201,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -110333,7 +110333,7 @@
 	terrain="flood_plain"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -112192,7 +112192,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -112855,7 +112855,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -113102,7 +113102,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -113635,7 +113635,7 @@
 	terrain="farmland"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -114038,7 +114038,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -114051,7 +114051,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -115039,7 +115039,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -115143,7 +115143,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -115156,7 +115156,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -115546,7 +115546,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -115559,7 +115559,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -116170,7 +116170,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -116846,7 +116846,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -117288,7 +117288,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -117652,7 +117652,7 @@
 	terrain="farmland"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -117756,7 +117756,7 @@
 	terrain="desert_hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -118289,7 +118289,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -118315,7 +118315,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -120031,7 +120031,7 @@
 	terrain="marsh"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -120070,7 +120070,7 @@
 	terrain="marsh"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -120525,7 +120525,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="base_metals"
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -120538,7 +120538,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -121305,7 +121305,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -121318,7 +121318,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -121682,7 +121682,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -122631,7 +122631,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -122956,7 +122956,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -122982,7 +122982,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -123502,7 +123502,7 @@
 	terrain="farmland"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -123645,7 +123645,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -123710,7 +123710,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -123723,7 +123723,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -123736,7 +123736,7 @@
 	terrain="forest"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -124386,7 +124386,7 @@
 	terrain="hills"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -124542,7 +124542,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -125153,7 +125153,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -125166,7 +125166,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -125179,7 +125179,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -149044,7 +149044,7 @@
 }
 
 11466={ #
-	terrain="plains"
+	terrain="impassable_terrain"
 	culture="peten"
 	religion="mayan_pantheon"
 	trade_goods="maize"
@@ -149226,10 +149226,10 @@
 }
 
 11480={ #
-	terrain="hills"
+	terrain="impassable_terrain"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -150945,7 +150945,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -150971,7 +150971,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -151452,7 +151452,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -152531,7 +152531,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -155105,7 +155105,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -155118,7 +155118,7 @@
 	terrain="plains"
 	culture="peten"
 	religion="mayan_pantheon"
-	trade_goods="maize"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
